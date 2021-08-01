@@ -65,6 +65,15 @@ main article:not(:nth-of-type(1)) {
 }
 
 
+/* Default element styles */
+
+blockquote {
+  border-left: solid #CCC 4px;
+  padding-left: 10px;
+  margin-left: 5px;
+}
+
+
 /* Library */
 
 article aside .date, article aside .date a:visited, article aside .date a:link {
