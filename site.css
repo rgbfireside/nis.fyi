@@ -91,6 +91,7 @@ blockquote {
 
 pre {
   white-space: pre-wrap;
+  font-family: inherit;
 }
 
 
