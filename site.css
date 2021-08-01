@@ -28,14 +28,30 @@ main {
   grid-column: 2;
 }
 
+/* Color Scheme */
 
-/* Page template styling */
+:root {
+  --muted-color: grey;
+  --highlight-color: lightyellow;
+  --hr-color: var(--muted-color);
+}
 
 html {
   /* Dark mode. Not using OS setting because exposing it is incompatible with anti-fingerprinting. */
   color: white;
   background-color: black;
 }
+
+header.main, a:link {
+  color: red; /* Considered #ff006f too */
+}
+
+a:visited {
+  color: #840101;
+}
+
+
+/* Page template styling */
 
 body {
   padding: 10px;
@@ -56,12 +72,12 @@ nav.main li {
 }
 
 footer.comments {
-  border-top: solid grey 1px;
+  border-top: solid var(--hr-color) 1px;
   padding-left: 15px;
 }
 
 main article:not(:nth-of-type(1)) {
-  border-top: solid grey 1px;
+  border-top: solid var(--hr-color) 1px;
 }
 
 
@@ -81,7 +97,7 @@ pre {
 /* Library */
 
 article aside .date, article aside .date a:visited, article aside .date a:link {
-  color: grey;
+  color: var(--muted-color);
   text-decoration: none;
 }
 
@@ -92,7 +108,7 @@ article aside .date, article aside .date a:visited, article aside .date a:link {
 
 .todo, .todo:before {
   display: inline-block;
-  background-color: lightyellow;
-  color: grey;
+  background-color: var(--highlight-color);
+  color: var(--muted-color);
   border-radius: 3px;
 }
