@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Mon, 2 Aug 2021 00:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 2 Aug 2021 00:41:06 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -24,7 +24,6 @@
       <description><![CDATA[Mail from evil "people" to nis@nis.fyi (not included in RSS feed)
     ]]></description>
     </item>
-
     <item>
       <title>Evil: A Hole?</title>
       <link>https://www.nis.fyi/post/evil-a-hole.html</link>
@@ -135,7 +134,6 @@ That's what evil people have as a soul.</pre>
     </p>
     ]]></content:encoded>
     </item>
-
     <item>
       <title>Taking Others into Account</title>
       <link>https://www.nis.fyi/post/taking-others-into-account.html</link>
@@ -178,7 +176,6 @@ That's what evil people have as a soul.</pre>
     </ol>
     ]]></content:encoded>
     </item>
-
     <item>
       <title>Entropic Exit Scamming</title>
       <link>https://www.nis.fyi/glossary.html#entropic-exit-scamming</link>
@@ -200,7 +197,6 @@ That's what evil people have as a soul.</pre>
     </p>
     ]]></content:encoded>
     </item>
-
     <item>
       <title>Spite</title>
       <link>https://www.nis.fyi/glossary.html#spite</link>
@@ -238,7 +234,6 @@ That's what evil people have as a soul.</pre>
     </p>
     ]]></content:encoded>
     </item>
-
     <item>
       <title>Cancer Terms</title>
       <link>https://www.nis.fyi/list/cancer-terms.html</link>
