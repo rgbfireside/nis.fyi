@@ -31,6 +31,9 @@ main {
 /* Color Scheme */
 
 :root {
+  --text-color: white;
+  --background-color: black;
+
   --muted-color: grey;
   --highlight-color: lightyellow;
   --hr-color: var(--muted-color);
@@ -38,8 +41,8 @@ main {
 
 html {
   /* Dark mode. Not using OS setting because exposing it is incompatible with anti-fingerprinting. */
-  color: white;
-  background-color: black;
+  color: var(--text-color);
+  background-color: var(--background-color);
 }
 
 header.main, a:link {
@@ -97,7 +100,7 @@ pre {
 
 /* Library */
 
-article aside .date, article aside .date a:visited, article aside .date a:link {
+article aside, article aside a:visited, article aside a:link {
   color: var(--muted-color);
   text-decoration: none;
 }
@@ -112,6 +115,14 @@ article aside .date, article aside .date a:visited, article aside .date a:link {
   background-color: var(--highlight-color);
   color: var(--muted-color);
   border-radius: 3px;
+}
+
+.muted {
+  color: var(--muted-color);
+}
+
+.author {
+  color: var(--text-color)
 }
 
 
