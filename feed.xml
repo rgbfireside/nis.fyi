@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Mon, 2 Aug 2021 01:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 2 Aug 2021 02:03:24 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -167,8 +167,8 @@ That's what evil people have as a soul.</pre>
     </p>
 
     <ol>
-      <li>
-        <blockquote id="ref-social-contract">
+      <li id="ref-social-contract">
+        <blockquote>
           It was arguing with people one on one a lot when I was younger that collided me with the sight of social morality when someone said it was okay to do whatever to animals because they weren’t part of the social contract
           <cite><a href="https://sinceriously.fyi/glossary/#praxis">Praxis - Ziz's glossary</a></cite>
         </blockquote>

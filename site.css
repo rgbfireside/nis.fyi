@@ -36,7 +36,9 @@ main {
 
   --muted-color: grey;
   --highlight-color: lightyellow;
+  --bright-highlight-color: yellow;
   --hr-color: var(--muted-color);
+  --target-color: var(--highlight-color);
 }
 
 html {
@@ -97,6 +99,14 @@ pre {
   font-family: inherit;
 }
 
+article {
+  padding: 5px;
+}
+
+:target {
+  border: solid var(--bright-highlight-color) 1px !important;
+}
+
 
 /* Library */
 
@@ -129,7 +139,9 @@ article aside, article aside a:visited, article aside a:link {
 /* Page-specific styling */
 
 main.evil-mail > article {
-  border: solid var(--hr-color) 3px;
+  border-style: solid;
+  border-color: var(--hr-color);
+  border-width: 3px !important;
   padding: 10px;
   margin-top: 20px;
 }
