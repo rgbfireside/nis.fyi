@@ -110,7 +110,7 @@ article {
 
 /* Library */
 
-article aside, article aside a:visited, article aside a:link {
+article aside, article aside a.date:visited, article aside a.date:link {
   color: var(--muted-color);
   text-decoration: none;
 }
