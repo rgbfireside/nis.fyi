@@ -67,6 +67,10 @@ header.main a:link, header.main a:visited {
   text-decoration: none;
 }
 
+nav.main a:link {
+  text-decoration: none;
+}
+
 nav.main ul {
   padding-left: 20px;
 }
