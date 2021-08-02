@@ -10,10 +10,20 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sun, 1 Aug 2021 23:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 2 Aug 2021 00:39:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+
+    <item>
+      <title>Evil Mail</title>
+      <link>https://www.nis.fyi/evil-mail.html</link>
+      <guid isPermaLink="false">https://www.nis.fyi/evil-mail.html</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sun, 1 Aug 2021 22:17:27 +0000</pubDate>
+      <description><![CDATA[Mail from evil "people" to nis@nis.fyi (not included in RSS feed)
+    ]]></description>
+    </item>
 
     <item>
       <title>Evil: A Hole?</title>
