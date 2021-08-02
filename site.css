@@ -119,11 +119,6 @@ article aside, article aside a.date:visited, article aside a.date:link {
   text-decoration: none;
 }
 
-.todo:before {
-  content: 'TODO: ';
-  margin-right: 0.5em;
-}
-
 .todo, .todo:before {
   display: inline-block;
   background-color: var(--highlight-color);
