@@ -92,6 +92,10 @@ main article:not(:nth-of-type(1)) {
 
 /* Default element styles */
 
+p {
+  text-indent: 1.5em;
+}
+
 blockquote {
   border-left: solid var(--hr-color) 4px;
   padding-left: 10px;
