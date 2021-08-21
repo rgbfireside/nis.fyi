@@ -102,6 +102,12 @@ blockquote {
   margin-left: 5px;
 }
 
+blockquote cite {
+  display: block;
+  padding-top: 1em;
+  padding-left: 1em;
+}
+
 pre {
   white-space: pre-wrap;
   font-family: inherit;
