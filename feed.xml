@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sat, 21 Aug 2021 22:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Aug 2021 21:52:51 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -314,7 +314,7 @@ That's what evil people have as a soul.</pre>
     ]]></content:encoded>
     </item>
     <item>
-      <title>Entropic Exit Scamming</title>
+      <title>Glossary: Entropic Exit Scamming</title>
       <link>https://www.nis.fyi/glossary.html#entropic-exit-scamming</link>
       <guid isPermaLink="false">https://www.nis.fyi/glossary.html#entropic-exit-scamming</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
@@ -335,7 +335,7 @@ That's what evil people have as a soul.</pre>
     ]]></content:encoded>
     </item>
     <item>
-      <title>Spite</title>
+      <title>Glossary: Spite</title>
       <link>https://www.nis.fyi/glossary.html#spite</link>
       <guid isPermaLink="false">https://www.nis.fyi/glossary.html#spite</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
