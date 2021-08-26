@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 26 Aug 2021 21:27:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 21:29:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -18,7 +18,7 @@
     <item>
       <title>Glossary: Purposeless &quot;Unenlightenment&quot; Troll Line</title>
       <link>https://www.nis.fyi/glossary.html#purposeless-unenlightenment-troll-line</link>
-      <guid isPermaLink="false">https://www.nis.fyi/glossary.html#purposeless-unenlightenment-troll-line</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#purposeless-unenlightenment-troll-line</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 26 Aug 2021 06:38:33 +0000</pubDate>
       <description><![CDATA[
@@ -31,7 +31,7 @@
     <item>
       <title>Jargon</title>
       <link>https://www.nis.fyi/list/jargon.html</link>
-      <guid isPermaLink="false">https://www.nis.fyi/list/jargon.html</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/list/jargon.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 26 Aug 2021 06:38:33 +0000</pubDate>
       <description><![CDATA[
@@ -61,7 +61,7 @@
     <item>
       <title>Glossary: &quot;Suffering&quot;</title>
       <link>https://www.nis.fyi/glossary.html#suffering</link>
-      <guid isPermaLink="false">https://www.nis.fyi/glossary.html#suffering</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#suffering</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 26 Aug 2021 06:38:33 +0000</pubDate>
       <description><![CDATA[
@@ -115,7 +115,7 @@
     <item>
       <title>Living Reference / Term</title>
       <link>https://www.nis.fyi/list/living-reference.html</link>
-      <guid isPermaLink="false">https://www.nis.fyi/list/living-reference.html</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/list/living-reference.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 26 Aug 2021 06:38:33 +0000</pubDate>
       <description><![CDATA[
@@ -234,7 +234,7 @@
     <item>
       <title>Genesis Troll Line</title>
       <link>https://www.nis.fyi/post/genesis-troll-line.html</link>
-      <guid isPermaLink="false">https://www.nis.fyi/post/genesis-troll-line.html</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/post/genesis-troll-line.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sat, 21 Aug 2021 05:00:42 +0000</pubDate>
       <description><![CDATA[
@@ -371,7 +371,7 @@
     <item>
       <title>Evil Mail</title>
       <link>https://www.nis.fyi/evil-mail.html</link>
-      <guid isPermaLink="false">https://www.nis.fyi/evil-mail.html</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/evil-mail.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sun, 1 Aug 2021 22:17:27 +0000</pubDate>
       <description><![CDATA[Mail from evil "people" to nis@nis.fyi (not included in RSS feed)
@@ -380,7 +380,7 @@
     <item>
       <title>Evil: A Hole?</title>
       <link>https://www.nis.fyi/post/evil-a-hole.html</link>
-      <guid isPermaLink="false">https://www.nis.fyi/post/evil-a-hole.html</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/post/evil-a-hole.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sun, 1 Aug 2021 03:25:03 +0000</pubDate>
       <description><![CDATA[
@@ -490,7 +490,7 @@ That's what evil people have as a soul.</pre>
     <item>
       <title>Caring / Taking Others into Account</title>
       <link>https://www.nis.fyi/post/taking-others-into-account.html</link>
-      <guid isPermaLink="false">https://www.nis.fyi/post/taking-others-into-account.html</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/post/taking-others-into-account.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sun, 1 Aug 2021 03:24:12 +0000</pubDate>
       <description><![CDATA[
@@ -532,7 +532,7 @@ That's what evil people have as a soul.</pre>
     <item>
       <title>Glossary: Entropic Exit Scamming</title>
       <link>https://www.nis.fyi/glossary.html#entropic-exit-scamming</link>
-      <guid isPermaLink="false">https://www.nis.fyi/glossary.html#entropic-exit-scamming</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#entropic-exit-scamming</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sun, 1 Aug 2021 03:23:31 +0000</pubDate>
       <description><![CDATA[
@@ -553,7 +553,7 @@ That's what evil people have as a soul.</pre>
     <item>
       <title>Glossary: Spite</title>
       <link>https://www.nis.fyi/glossary.html#spite</link>
-      <guid isPermaLink="false">https://www.nis.fyi/glossary.html#spite</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#spite</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sun, 1 Aug 2021 03:16:07 +0000</pubDate>
       <description><![CDATA[
@@ -590,7 +590,7 @@ That's what evil people have as a soul.</pre>
     <item>
       <title>Cancer Terms</title>
       <link>https://www.nis.fyi/list/cancer-terms.html</link>
-      <guid isPermaLink="false">https://www.nis.fyi/list/cancer-terms.html</guid>
+      <guid isPermaLink="true">https://www.nis.fyi/list/cancer-terms.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sun, 1 Aug 2021 03:16:07 +0000</pubDate>
       <description><![CDATA[
