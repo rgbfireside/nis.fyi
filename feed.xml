@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 26 Aug 2021 01:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 05:29:08 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -272,7 +272,7 @@ That's what evil people have as a soul.</pre>
     ]]></content:encoded>
     </item>
     <item>
-      <title>Taking Others into Account</title>
+      <title>Caring / Taking Others into Account</title>
       <link>https://www.nis.fyi/post/taking-others-into-account.html</link>
       <guid isPermaLink="false">https://www.nis.fyi/post/taking-others-into-account.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
