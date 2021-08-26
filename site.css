@@ -91,7 +91,7 @@ footer.comments footer.comments, main.external-comments footer.comments {
 }
 
 main article:not(:nth-of-type(1)) {
-  border-top: solid var(--hr-color) 1px;
+  border-top: solid var(--hr-color) 10px;
 }
 
 
