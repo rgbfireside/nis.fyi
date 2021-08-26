@@ -149,6 +149,10 @@ article aside, article aside a.date:visited, article aside a.date:link {
   color: var(--text-color)
 }
 
+.broken-link {
+  text-decoration: line-through;
+}
+
 
 /* Page-specific styling */
 
