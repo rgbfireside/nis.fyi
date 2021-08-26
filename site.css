@@ -135,11 +135,10 @@ article aside, article aside a.date:visited, article aside a.date:link {
 }
 
 .todo {
-  display: inline-block;
   background-color: var(--highlight-color);
-  color: var(--muted-color);
+  color: black;
   border-radius: 3px;
-  text-indent: none;
+  text-indent: 0;
 }
 
 .muted {
