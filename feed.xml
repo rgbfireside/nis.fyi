@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 26 Aug 2021 09:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 09:16:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -123,11 +123,11 @@
         A term where every usage is itself bearing an instance of the word&#39;s meaning because it&#39;s referent is something you care about on an always-ongoing basis. All living terms are ultimately some t…]]></description>
       <content:encoded><![CDATA[<section>
       <p>
-        A term where every usage is itself bearing an instance of the word's meaning because it's referent is something you care about on an always-ongoing basis. All living terms are ultimately some take on, or closely related to "I".
+        A term where every usage is itself bearing an instance of the word's meaning because it's referent is something you care about on an always-ongoing basis. All living terms are ultimately some take on, or closely related to 'I'.
       </p>
 
       <p>
-        Similar to the way transhumanists refer to "AGI <a href="https://en.wikipedia.org/wiki/NP-completeness">complete</a>" problems that can only be solved by a general intelligence, but at the level of semantics, and without the <a href="https://sinceriously.fyi/glossary#outside-view-disease">outside view</a> that term invokes (I'd instead say "choice complete", maybe<sup><a href="https://www.nis.fyi/list/living-reference.html#living-reference-footnote-choice-complete">1. choice complete</a></sup>). There's a sense in which no grammatical structure can <a href="https://en.wikipedia.org/wiki/Rice%27s_theorem">nontrivially</a> modify the meaning of a living term e.g. a living term cannot be truly negated (in the sense of "anti-").
+        Similar to the way transhumanists refer to "AGI <a href="https://en.wikipedia.org/wiki/NP-completeness">complete</a>" problems that can only be solved by a general intelligence, but at the level of semantics, and without the <a href="https://sinceriously.fyi/glossary#outside-view-disease">outside view</a> that term invokes (I'd instead say "choice complete", maybe<sup><a href="https://www.nis.fyi/list/living-reference.html#living-reference-footnote-choice-complete">1. choice complete</a></sup>). There's a sense in which no grammatical structure can <a href="https://en.wikipedia.org/wiki/Rice%27s_theorem">nontrivially</a> modify the meaning of a living term e.g. a living term cannot be truly negated (in the sense of 'anti-').
       </p>
 
       <p>
@@ -153,7 +153,7 @@
             <li>See '<a href="https://sinceriously.fyi/glossary/#fictive">fictive</a>'</li>
             <li>Want / Like<ul>
               <li>"Diswant" is modifying what you want to do about the thing, not "antiwanting it" (vs I once considered using the word "antiwant" to describe the <a href="https://sinceriously.fyi/glossary/#antiphylactery">inside-out nature of death knights</a>)</li>
-              <li>Good / Bad / Wrong<ul>
+              <li>Good / Bad / Right / Wrong<ul>
                 <li>Used grammatically to describe what you want</li>
               </ul></li>
             </ul></li>
