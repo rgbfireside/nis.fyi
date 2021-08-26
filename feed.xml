@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 26 Aug 2021 09:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 09:18:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -157,6 +157,9 @@
                 <li>Used grammatically to describe what you want</li>
               </ul></li>
             </ul></li>
+          </ul></li>
+          <li>People<ul>
+            <li>Animals are people</li>
           </ul></li>
         </ul></li>
       </ul>
