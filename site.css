@@ -85,9 +85,9 @@ footer.comments {
   padding-left: 15px;
 }
 
-/* Note page-specific style for main.external-comments here */
-footer.comments footer.comments, main.external-comments footer.comments {
-  border-left: solid var(--hr-color) 1px;
+footer.comments > article {
+  margin-top: 10px;
+  border: solid var(--hr-color) 1px;
 }
 
 main > hr.article-separator {
