@@ -134,11 +134,12 @@ article aside, article aside a.date:visited, article aside a.date:link {
   text-decoration: none;
 }
 
-.todo, .todo:before {
+.todo {
   display: inline-block;
   background-color: var(--highlight-color);
   color: var(--muted-color);
   border-radius: 3px;
+  text-indent: none;
 }
 
 .muted {
