@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 26 Aug 2021 09:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 09:36:55 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -563,7 +563,7 @@ That's what evil people have as a soul.</pre>
 
       The fabric of evi…]]></description>
       <content:encoded><![CDATA[<p>
-      The word "spite" is a bucket error between evil burning the commons based on mutually-aligned cancer and vengeance "when it wouldn't even <a href="https://www.nis.fyi/list/cancer-terms.html">causal-decision-theory</a>-serve <i>anyone</i>".
+      The word "spite" is a bucket error between evil burning the commons based on mutually-aligned cancer and vengeance "when it wouldn't even <a href="https://www.nis.fyi/list/cancer-terms.html">causal-decision-theory</a>-serve <em>anyone</em>".
     </p>
 
     <p>
@@ -670,7 +670,7 @@ That's what evil people have as a soul.</pre>
           <li>pleasure</li>
         </ul>
       </li>
-      <li>"It's not ok for anything <i>too</i> bad to ever happen, or I don't know what I'd do"
+      <li>"It's not ok for anything <em>too</em> bad to ever happen, or I don't know what I'd do"
         <ul>
           <li>suffering</li>
         </ul>
