@@ -84,6 +84,10 @@ nav.main li {
   margin: 5px 0;
 }
 
+nav.main #page-history-link:target {
+  background-color: var(--bright-highlight-color);
+}
+
 footer.comments {
   padding-left: 15px;
 }

@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 27 Aug 2021 02:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 04:24:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -552,7 +552,7 @@ That's what evil people have as a soul.</pre>
       <a href="https://sinceriously.fyi/the-multiverse">Yahwehists</a> think of evil as "divergence from God's plan", like those <a href="https://sinceriously.fyi/aliveness">zombies</a> who want everything to go nostalgically-perfectly on their vacation or "the whole thing is ruined".
     </p>
 
-    <p>
+    <p id="entropic-exit-scamming-promise">
       Ziz once said to me that a promise is an asymmetric weapon for evil, inherently an attempt to get a second chance. "Promises are made to be broken". This yahwehist thing is the same deal: "Everything's <a href="https://www.nis.fyi/post/genesis-troll-line.html">already setup</a>, the universe all layed out to eat, there's only one thing left to do, and you must not do it!"
     </p>
     ]]></content:encoded>
