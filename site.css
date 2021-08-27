@@ -85,8 +85,11 @@ nav.main li {
 }
 
 footer.comments {
-  border-top: solid var(--hr-color) 1px;
   padding-left: 15px;
+}
+
+footer.comments:not(.has-comments) {
+  border-top: solid var(--hr-color) 1px;
 }
 
 footer.comments > article {
