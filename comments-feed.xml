@@ -10,11 +10,26 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 27 Aug 2021 05:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 07:47:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Reply to Nis on Glossary: &quot;Suffering&quot; by Nis</title>
+      <link>https://www.nis.fyi/glossary.html#comment-2021-08-27-002</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#comment-2021-08-27-002</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Fri, 27 Aug 2021 07:46:23 +0000</pubDate>
+      <description><![CDATA[
+      Actually, I don&#39;t want to specifically call that &quot;destroy everything&quot; link evil. I haven&#39;t finished processing it. Incredibly sus tho.
+
+    …]]></description>
+      <content:encoded><![CDATA[<p>
+      Actually, I don't want to specifically call that <a href="https://www.nis.fyi/list/living-reference.html#destroy-everything-link">"destroy everything"</a> link evil. I haven't finished processing it. Incredibly <a href="https://sinceriously.fyi/aliveness/#comment-4218">sus</a> tho.
+    </p>
+    ]]></content:encoded>
+    </item>
     <item>
       <title>Reply to Nis on Glossary: &quot;Suffering&quot; by Nis</title>
       <link>https://www.nis.fyi/glossary.html#comment-2021-08-27-001</link>
