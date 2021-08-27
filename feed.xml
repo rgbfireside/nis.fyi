@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 27 Aug 2021 02:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 02:57:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -186,7 +186,7 @@
       </blockquote>
 
       <p>
-        Related concepts: <a href="https://sinceriously.fyi/glossary/#outside-view-disease">Outside View</a>, <a href="https://sinceriously.fyi/glossary/#frame-of-puppets">Frame of Puppets</a>, <a href="https://sinceriously.fyi/false-faces/">False Faces</a>.
+        Related concepts: <a href="https://sinceriously.fyi/glossary/#outside-view-disease">Outside View</a>, <a href="https://sinceriously.fyi/glossary/#frame-of-puppets">Frame of Puppets</a>, <a href="https://sinceriously.fyi/false-faces/">False Faces</a>, <a href="https://sinceriously.fyi/glossary#saidar">Saidar</a>.
       </p>
 
       <ul>
@@ -196,12 +196,19 @@
         <li>"<a href="https://sinceriously.fyi/self-blackmail/">Akrasia</a>" (vs Choice under "duress")</li>
         <li>"<a href="https://www.nis.fyi/glossary.html#suffering">Suffering</a>" (vs Bad/Wrong)</li>
       </ul>
+    </section>
 
+    <section id="todo">
       <p class="todo">
-        TODO: how would I classify the word "experience"?<br />
-        TODO: how would I relate this to "fate minimization"? (for which I'm also reconsidering the name itself)<br />
-        TODO: I have two of the "Buddhist" "3 marks of existence" on this page ("suffering" and self), what about "impermanence"?
+        Uncategorized primordial terms:
       </p>
+
+      <ul>
+        <li>experience</li>
+        <li>time</li>
+        <li>how would I relate this to "fate minimization"? (for which I'm also reconsidering the name itself)</li>
+        <li>I have two of the "Buddhist" "3 marks of existence" on this page ("suffering" and self), what about "impermanence"?</li>
+      </ul>
     </section>
 
     <section id="dying-term">
