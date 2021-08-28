@@ -88,6 +88,16 @@ nav.main #page-history-link:target {
   background-color: var(--bright-highlight-color);
 }
 
+article > header img.avatar {
+  width: 50px;
+  vertical-align: middle;
+  margin-right: 1em;
+}
+
+article > img {
+  max-width: 100%;
+}
+
 footer.comments {
   padding-left: 15px;
 }
