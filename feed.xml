@@ -10,11 +10,54 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 27 Aug 2021 22:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Aug 2021 07:39:21 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Language Bomb</title>
+      <link>https://www.nis.fyi/glossary.html#language-bomb</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#language-bomb</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sat, 28 Aug 2021 07:39:21 +0000</pubDate>
+      <description><![CDATA[
+      An assertion made with determination (or in the case of evil, submission to fate) regarding its encoding at least as proximal/determined as your investment in the language encoding the assertion its…]]></description>
+      <content:encoded><![CDATA[<p>
+      An assertion made with determination (or in the case of evil, <a href="https://sinceriously.fyi/the-multiverse">submission to fate</a>) regarding its encoding at least as <a href="https://sinceriously.fyi/glossary/#proximal">proximal</a>/determined as your investment in the language encoding the assertion itself, via a recognition of some <a href="https://sinceriously.fyi/glossary/#fangs-and-sunlight-problem">inherent inconsistency</a>. Named after '<a href="https://en.wikipedia.org/wiki/Fork_bomb">forkbomb</a>', because it's an attack on the hidden assumptions of the language you're using itself. Can make arbitrary statements feel meaningfully intended by the speaker as inherently true in the way axioms/theorems are.
+    </p>
+
+    <p>
+      e.g. Why would anyone claim not to be <a href="https://sinceriously.fyi/glossary/#good">good</a>, so why say that you're good unless you have something in particular to say at that time in particular? To say that you're good such that you would always say that you're good is to say something about not just yourself, but also the language you're using itself. Like, <a href="https://bewelltuned.com/gendlins_focusing">feel out</a> the word 'good' as in 'as opposed to evil', as used in e.g. <a href="https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)">dungeons and dragons</a>. The other sense of the word 'good', as in 'something I want' isn't the same, and 'common good' isn't quite right either: there's some note of <a href="https://www.nis.fyi/list/living-reference.html">unresolvability</a> in trying to define good in terms of anything but itself.
+    </p>
+
+    <p>
+      '<a href="https://www.nis.fyi/glossary.html#comment-2021-08-27-001">Kill all evil "people"</a>' is another example.
+    </p>
+
+    <p>
+      Language bombs are commonly subtly used as <a href="https://sinceriously.fyi/glossary/#troll-line-in-the-first-post">troll lines</a> by evil, or perhaps sometimes as indications of <a href="https://nis.fyi/list/living-reference.html#broken-placeholder-term">broken placeholders</a>.
+    </p>
+
+    <p>
+      More Examples:
+    </p>
+
+    <ul>
+      <li>"<a href="https://www.nis.fyi/post/genesis-troll-line.html">In the Beginning was the Word</a>"</li>
+      <li>"<a href="https://www.nis.fyi/list/living-reference.html#destroy-everything-link">The secret is to begin at the end.</a>"</li>
+      <li>"Always follow The Path"</li>
+    </ul>
+
+    <p>
+      Notice how they slip under the radar if you think "Oh the writer implicitly means in this particular context / under these particular assumptions and is just saying it this way for phatic emphasis".
+    </p>
+
+    <p>
+      Compare poetic language (e.g. when implicitly imagining speaking to evil I've found myself whispering "My name is death"), and phatically factoring yourself out of a judgement e.g. saying of music "that slaps" (i.e. that makes me slap my leg to the rhythm).
+    </p>
+    ]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Purposeless &quot;Unenlightenment&quot; Troll Line</title>
       <link>https://www.nis.fyi/glossary.html#purposeless-unenlightenment-troll-line</link>
