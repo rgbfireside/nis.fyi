@@ -10,11 +10,41 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Wed, 1 Sep 2021 04:26:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 1 Sep 2021 04:50:52 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Evil Concept</title>
+      <link>https://www.nis.fyi/glossary.html#evil-concept</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#evil-concept</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Wed, 1 Sep 2021 04:28:12 +0000</pubDate>
+      <description><![CDATA[
+      Original name: &quot;Fractally inverted concept&quot;, but inversion is insufficient a word to mean evil.
+
+
+
+      A concept made of concentrated 5&amp;amp;10s designed such that any simple response to it seems to fu…]]></description>
+      <content:encoded><![CDATA[<p>
+      Original name: "Fractally inverted concept", but inversion is insufficient a word to mean evil.
+    </p>
+
+    <p>
+      A concept made of concentrated <a href="https://sinceriously.fyi/glossary#5&amp;10">5&amp;10s</a> designed such that any simple response to it seems to further the cause of evil. Cannot be effectively fought without the <a href="https://sinceriously.fyi/my-journey-to-the-dark-side">dark side</a>. Speech by death knights especially <a href="https://sinceriously.fyi/social-reality/#comment-1887">concentrates evil in this way</a>.
+    </p>
+
+    <p>
+      A central example is the common usage of <a href="https://www.nis.fyi/glossary.html#comment-2021-09-01-002">"suffering"</a> as an inversion of 'compassion' (see link). For another see "<a href="https://www.nis.fyi/post/genesis-troll-line.html#morality-troll-line">morality</a>" as in "light side morality". Notice I'm carefully saying 'as in' here to avoid saying the <a href="https://www.nis.fyi/external-comments.html#2021-08-20-001">underlying territory</a> the concepts are trying to capture is evil, and "a" instead of "the" to avoid implying any schellingness of evil itself.
+    </p>
+
+    <p>
+      Compare to '<a href="https://www.nis.fyi/list/living-reference.html#dying-term">dying term</a>' which describes a term used by good people to describe evil "people", rather than a term used by evil people to further evil.
+    </p>
+
+    ]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Language Bomb</title>
       <link>https://www.nis.fyi/glossary.html#language-bomb</link>
