@@ -156,23 +156,43 @@ h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
   line-height: 0; /* Shows an extra empty line in Firefox without this?? */
 }
 
+:root {
+  /* ➔ appears with more left-padding than ⇉ */
+  --heading-arrow-alignment-padding: 4px;
+}
+
 main:not(.article-index) h2:before { content: '→ '; }
 main:not(.article-index) h3:before { content: '⇉ '; }
 main:not(.article-index) h4:before { content: '⇶ '; }
 main:not(.article-index) h5:before { content: '⇶→ '; }
 main:not(.article-index) h6:before { content: '⇶⇉ '; }
 
+main:not(.article-index) h3:before,
+main:not(.article-index) h4:before,
+main:not(.article-index) h5:before,
+main:not(.article-index) h6:before {
+  /* TODO: Test if this is needed in non-firefox browsers */
+  padding-left: var(--heading-arrow-alignment-padding);
+}
+
 main.article-index h3:before { content: '→ '; }
 main.article-index h4:before { content: '⇉ '; }
 main.article-index h5:before { content: '⇶ '; }
 main.article-index h6:before { content: '⇶→ '; }
 
-footer.comments > h1:before { content: ''; }
-footer.comments > h2:before { content: ''; }
-footer.comments > h3:before { content: ''; }
-footer.comments > h4:before { content: ''; }
-footer.comments > h5:before { content: ''; }
-footer.comments > h6:before { content: ''; }
+main.article-index h3:before,
+main.article-index h4:before,
+main.article-index h5:before,
+main.article-index h6:before {
+  padding-left: var(--heading-arrow-alignment-padding);
+}
+
+footer.comments > h1:before { content: ''; padding-left: 0; }
+footer.comments > h2:before { content: ''; padding-left: 0; }
+footer.comments > h3:before { content: ''; padding-left: 0; }
+footer.comments > h4:before { content: ''; padding-left: 0; }
+footer.comments > h5:before { content: ''; padding-left: 0; }
+footer.comments > h6:before { content: ''; padding-left: 0; }
 
 
 /* Library */
