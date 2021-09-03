@@ -10,11 +10,34 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 3 Sep 2021 07:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 3 Sep 2021 07:43:15 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Comment on Glossary: Entropic Exit Scamming by Nis</title>
+      <link>https://www.nis.fyi/glossary.html#comment-2021-09-03-001</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#comment-2021-09-03-001</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Fri, 3 Sep 2021 07:43:15 +0000</pubDate>
+      <description><![CDATA[
+      Seen in the wild:
+
+
+
+      Any system to get people to cooperate and play positive sum games is just another opportunity to play negative sum games by manipulating the system itself.
+      11 - Roko&#39;s &quot;info…]]></description>
+      <content:encoded><![CDATA[<p class="intro">
+      Seen in the wild:
+    </p>
+
+    <blockquote>
+      <p>Any system to get people to cooperate and play positive sum games is just another opportunity to play negative sum games by manipulating the system itself.</p>
+      <cite><a href="https://twtext.com/article/1281356539589201920">11 - Roko's "infohazard" list</a></cite>
+    </blockquote>
+    ]]></content:encoded>
+    </item>
     <item>
       <title>Reply to Nis on Glossary: &quot;Suffering&quot; by Nis</title>
       <link>https://www.nis.fyi/glossary.html#comment-2021-09-01-005</link>
