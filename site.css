@@ -152,6 +152,10 @@ h1 { font-size: 32px; }
 h2 { font-size: 24px; }
 h3, h4, h5, h6 { font-size: 20px; }
 
+h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
+  line-height: 0; /* Shows an extra empty line in Firefox without this?? */
+}
+
 main:not(.article-index) h2:before { content: '→ '; }
 main:not(.article-index) h3:before { content: '⇉ '; }
 main:not(.article-index) h4:before { content: '⇶ '; }
