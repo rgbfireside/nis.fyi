@@ -118,7 +118,7 @@ main > hr.article-separator {
 
 /* Default element styles */
 
-p {
+p:not(.intro) {
   text-indent: 1.5em;
 }
 
