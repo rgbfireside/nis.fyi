@@ -148,6 +148,26 @@ article {
 }
 
 
+/* Headings */
+
+h1 { font-size: 32px; }
+h2 { font-size: 24px; }
+h3, h4, h5, h6 { font-size: 20px; }
+
+main:not(.article-index) h2:before { content: '→ '; }
+main:not(.article-index) h3:before { content: '⇉ '; }
+main:not(.article-index) h4:before { content: '⇶ '; }
+main:not(.article-index) h5:before { content: '⇶→ '; }
+main:not(.article-index) h6:before { content: '⇶⇉ '; }
+
+main.article-index h3:before { content: '→ '; }
+main.article-index h4:before { content: '⇉ '; }
+main.article-index h5:before { content: '⇶ '; }
+main.article-index h6:before { content: '⇶→ '; }
+
+footer.comments > h3:before { content: ''; }
+
+
 /* Library */
 
 article header, article header a.date:visited, article header a.date:link {
@@ -177,7 +197,7 @@ article header, article header a.date:visited, article header a.date:link {
 
 /* Page-specific styling */
 
-main.evil-mail > article {
+main#evil-mail > article {
   border-style: solid;
   border-color: var(--hr-color);
   border-width: 3px !important;
@@ -185,6 +205,6 @@ main.evil-mail > article {
   margin-top: 20px;
 }
 
-main.evil-mail > article h2 {
+main#evil-mail > article h2 {
   margin-top: 0;
 }
