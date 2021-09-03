@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 3 Sep 2021 04:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 3 Sep 2021 04:36:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -195,7 +195,7 @@
       <description><![CDATA[
       Summary: Just use the word &#39;wrong&#39; or &#39;bad&#39; instead of &quot;suffering&quot;. e.g. If your interlocutor says &quot;But they were going to die anyway&quot; you can say &quot;But it was still wrong!&quot; instead of &quot;But they suff…]]></description>
       <content:encoded><![CDATA[<p>
-      Summary: Just use the word 'wrong' or 'bad' instead of "suffering". e.g. If your interlocutor says "But they were going to die anyway" you can say "But it was still wrong!" instead of "But they suffered!".
+      Summary: Just use the word 'wrong' or 'bad' instead of "suffering". e.g. If your interlocutor says "But they were going to die anyway" you can say "But it <a href="https://sinceriously.fyi/glossary#because-i-choose-to">was still</a> wrong!" instead of "But they suffered!".
     </p>
 
     <blockquote>
