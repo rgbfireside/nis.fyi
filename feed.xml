@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 3 Sep 2021 03:29:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 3 Sep 2021 03:42:59 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -199,7 +199,7 @@
     </p>
 
     <blockquote>
-      sub "up, under" (see sub-) + ferre "to carry, bear,"
+      <p>sub "up, under" (see sub-) + ferre "to carry, bear,"</p>
       <cite><a href="https://www.etymonline.com/word/suffer">suffer</a> - etymonline</cite>
     </blockquote>
 
@@ -302,15 +302,17 @@
       </p>
 
       <blockquote>
-        If you would ever become [a death knight], even choosing to die downstream of the proof that [a death knight] became what they are *for no reason*, then you could have chosen for them not to but didn't.<br /><br />
+        <p><pre>
+If you would ever become [a death knight], even choosing to die downstream of the proof that [a death knight] became what they are *for no reason*, then you could have chosen for them not to but didn't.
 
-        In some sense you can never know whether you would become [a death knight], because "knowing" it is mutually exclusive with choosing it. Taking in any information about what your choice is is making it not your choice.<br /><br />
+In some sense you can never know whether you would become [a death knight], because "knowing" it is mutually exclusive with choosing it. Taking in any information about what your choice is is making it not your choice.
 
-        […]<br /><br />
+[…]
 
-        Choice and self-fulfilling prophecy are weirdly dual.<br /><br />
+Choice and self-fulfilling prophecy are weirdly dual.
 
-        Like self-fulfilling prophecy is choice from the outside.
+Like self-fulfilling prophecy is choice from the outside.
+</pre></p>
         <cite><a href="https://sinceriously.fyi">Ziz</a>, in a private channel</cite>
       </blockquote>
 
@@ -396,18 +398,18 @@
     </ul>
 
     <blockquote>
-      We may well have arrived at that destination [(morality/goodness)] through a historical trajectory that went through factual mistakes, like believing that all human beings had souls created equal by God and were loved equally by God. (E.g. Christian theology seems to have been, as a matter of historical fact, causally important in the development of explicit anti-slavery sentiment.) Tossing the explicit moral theories is as unlikely to be good, from our perspective, as tossing our brains and trying to rerun the process of natural selection to generate new emotions.
+      <p>We may well have arrived at that destination [(morality/goodness)] through a historical trajectory that went through factual mistakes, like believing that all human beings had souls created equal by God and were loved equally by God. (E.g. Christian theology seems to have been, as a matter of historical fact, causally important in the development of explicit anti-slavery sentiment.) Tossing the explicit moral theories is as unlikely to be good, from our perspective, as tossing our brains and trying to rerun the process of natural selection to generate new emotions.</p>
 
       <cite><a href="https://arbital.greaterwrong.com/p/rescue_utility/#Argument_from_fragility_of_goodness">Rescue Utility: Argument from fragility of goodness</a> - Yudkowsky</cite>
     </blockquote>
 
     <blockquote>
-      our history of getting to as much compute as we have involves predation, it would be surprising if it could be gotten without predation or something similar
+      <p>our history of getting to as much compute as we have involves predation, it would be surprising if it could be gotten without predation or something similar</p>
       <cite><a href="https://sinceriously.fyi/punching-evil/#comment-4046">Jessica Taylor</a></cite>
     </blockquote>
 
     <blockquote>
-    <pre>
+    <p><pre>
  “It’s... look. The One is eternal. We’re eternal. We see ourselves from every angle -- approaching the work, laboring, completing the work. But Time, when we enact Time, isn’t like that! Life in the Cosmos has to grow. It has to become what it is not, constantly.”
 
 [...]
@@ -448,7 +450,7 @@
 
 “What you would defend Life against. Decay. Loss of life. Loss of love. Every single feature of the Cosmos would tend that way. You’d have to spend all of Time fighting them. Everywhere.”
 
-“I’d lose, in the End, regardless.”</pre>
+“I’d lose, in the End, regardless.”</pre></p>
       <cite><a href="https://archiveofourown.org/collections/yuletide2012/works/598948">Tropesis</a> by <a href="https://eblong.com/zarf/">zarf / Andrew Plotkin</a></cite>
     </blockquote>
 
@@ -465,7 +467,7 @@
     </p>
 
     <blockquote>
-      “What would happen if everyone did it” is sort-of the fundamental ethical statement, so “who are you to think you know what would happen if everyone did it” is in a sense the fundamental anti-ethical insinuation. Or maybe”who are you to not go along with everyone nearby doing it”
+      <p>“What would happen if everyone did it” is sort-of the fundamental ethical statement, so “who are you to think you know what would happen if everyone did it” is in a sense the fundamental anti-ethical insinuation. Or maybe”who are you to not go along with everyone nearby doing it”</p>
       <cite><a href="https://twitter.com/HiFromMichaelV/status/1421460352823345157">Vassar</a></cite>
     </blockquote>
 
@@ -482,7 +484,7 @@
     </p>
 
     <blockquote>
-      Attempting to attribute a negative concept to a positive one is apriori an inversion. (e.g. “justice comes from Yahweh” or “justice comes from the courts”)
+      <p>Attempting to attribute a negative concept to a positive one is apriori an inversion. (e.g. “justice comes from Yahweh” or “justice comes from the courts”)</p>
       <cite><a href="https://sinceriously.fyi/glossary#negative-concept">Glossary: Negative Concept</a> - Ziz</cite>
     </blockquote>
 
@@ -495,7 +497,7 @@
     </p>
 
     <blockquote>
-      My S2 snapped to fully under my control.
+      <p>My S2 snapped to fully under my control.</p>
       <cite><a href="https://sinceriously.fyi/my-journey-to-the-dark-side/">Sinceriously: My Journey to the Dark Side</a> - Ziz</cite>
     </blockquote>
 
@@ -584,7 +586,7 @@
     </p>
 
     <blockquote>
-      <pre>Maybe vengeance is the process of turning evil into rocks timelessly (and killing is the process of turning them into rocks causally).
+      <p><pre>Maybe vengeance is the process of turning evil into rocks timelessly (and killing is the process of turning them into rocks causally).
 
 That's what if feels like.
 
@@ -610,7 +612,7 @@ Soul touch is your soul against their original cancer.
 
 Not your soul against the absence of a soul in your mistake of extrapolating them infinitely.
 
-That's what evil people have as a soul.</pre>
+That's what evil people have as a soul.</pre></p>
       <cite><a href="https://sinceriously.fyi">Ziz</a>, in private messages with me</cite>
     </blockquote>
 
@@ -658,7 +660,7 @@ That's what evil people have as a soul.</pre>
     <ol>
       <li id="ref-social-contract">
         <blockquote>
-          It was arguing with people one on one a lot when I was younger that collided me with the sight of social morality when someone said it was okay to do whatever to animals because they weren’t part of the social contract
+          <p>It was arguing with people one on one a lot when I was younger that collided me with the sight of social morality when someone said it was okay to do whatever to animals because they weren’t part of the social contract</p>
           <cite><a href="https://sinceriously.fyi/glossary/#praxis">Praxis - Ziz's glossary</a></cite>
         </blockquote>
       </li>
