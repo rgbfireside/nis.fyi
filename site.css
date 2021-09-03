@@ -165,7 +165,12 @@ main.article-index h4:before { content: '⇉ '; }
 main.article-index h5:before { content: '⇶ '; }
 main.article-index h6:before { content: '⇶→ '; }
 
+footer.comments > h1:before { content: ''; }
+footer.comments > h2:before { content: ''; }
 footer.comments > h3:before { content: ''; }
+footer.comments > h4:before { content: ''; }
+footer.comments > h5:before { content: ''; }
+footer.comments > h6:before { content: ''; }
 
 
 /* Library */
