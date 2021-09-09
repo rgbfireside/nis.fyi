@@ -10,11 +10,22 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 9 Sep 2021 05:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 9 Sep 2021 06:01:58 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title></title>
+      <link>https://www.nis.fyi/microblog.html#2021-09-09-003</link>
+      <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-09-003</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Thu, 9 Sep 2021 06:01:58 +0000</pubDate>
+      <description><![CDATA[Prime made me do it
+    …]]></description>
+      <content:encoded><![CDATA[<p><a href="https://sinceriously.fyi/glossary#prime">Prime</a> made me do it</a>
+    </p>]]></content:encoded>
+    </item>
     <item>
       <title></title>
       <link>https://www.nis.fyi/microblog.html#2021-09-09-001</link>
