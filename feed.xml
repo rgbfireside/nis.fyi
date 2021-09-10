@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 9 Sep 2021 06:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 23:54:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -231,13 +231,15 @@
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 26 Aug 2021 06:38:33 +0000</pubDate>
       <description><![CDATA[
+      
       apriori: See Ziz&#39;s multiverse post
       subjunctive dependence = apriori wouldness
         e.g. apriori, if they would do X then I would do Y
         From Functional Decision Theory.
       
-      telos = apriori purpo…]]></description>
+      telos = apriori pu…]]></description>
       <content:encoded><![CDATA[<ul>
+      <!-- TODO: Make bullets clickable links -->
       <li id="apriori">apriori: See Ziz's <a href="https://sinceriously.fyi/the-multiverse">multiverse post</a></li>
       <li id="subjunctive-dependence">subjunctive dependence = apriori wouldness<ul>
         <li>e.g. apriori, if they would do X then I would do Y</li>
@@ -251,6 +253,7 @@
           <li>Bad faith: <a href="https://sinceriously.fyi/glossary#parfitian-gaslighting">Parfitian gaslighting</a> e.g. "the purpose of *anyone* feeling hate can only be evil"</li>
         </ul></li>
       </ul></li>
+      <li id="abdication">Abdication / Utter Abdication: See <a href="https://sinceriously.fyi/glossary/#writing-evil-a-blank-check">Writing Evil a Blank Check</a></li>
     </ul>
     ]]></content:encoded>
     </item>
