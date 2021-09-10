@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 10 Sep 2021 23:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 23:56:01 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,8 +21,7 @@
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-09-003</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 9 Sep 2021 06:01:58 +0000</pubDate>
-      <description><![CDATA[Prime made me do it
-    …]]></description>
+      <description><![CDATA[Prime made me do it…]]></description>
       <content:encoded><![CDATA[<p><a href="https://sinceriously.fyi/glossary#prime">Prime</a> made me do it</a>
     </p>]]></content:encoded>
     </item>
@@ -32,7 +31,7 @@
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-09-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 9 Sep 2021 05:06:47 +0000</pubDate>
-      <description><![CDATA[&quot;in that I&quot; vs &quot;to the extent that I&quot; …]]></description>
+      <description><![CDATA[&quot;in that I&quot; vs &quot;to the extent that I&quot;…]]></description>
       <content:encoded><![CDATA[<p>"in that I" vs "to the extent that I" <- I like "in that I"
     </p>]]></content:encoded>
     </item>
