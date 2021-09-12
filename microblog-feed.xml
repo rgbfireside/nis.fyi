@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sun, 12 Sep 2021 07:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Sep 2021 07:40:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -23,8 +23,8 @@
       <pubDate>Sat, 11 Sep 2021 21:53:05 +0000</pubDate>
       <description><![CDATA[Cancer doesn&#39;t merely beget death, cancer is death.…]]></description>
       <content:encoded><![CDATA[<p><a href="https://sinceriously.fyi/the-multiverse">Cancer doesn't merely beget death, cancer is death.</a>
-    </p>
-    ]]></content:encoded>
+</p>
+]]></content:encoded>
     </item>
     <item>
       <title></title>
@@ -34,7 +34,7 @@
       <pubDate>Thu, 9 Sep 2021 06:01:58 +0000</pubDate>
       <description><![CDATA[Prime made me do it…]]></description>
       <content:encoded><![CDATA[<p><a href="https://sinceriously.fyi/glossary#prime">Prime</a> made me do it</a>
-    </p>]]></content:encoded>
+</p>]]></content:encoded>
     </item>
     <item>
       <title></title>
@@ -44,7 +44,7 @@
       <pubDate>Thu, 9 Sep 2021 05:06:47 +0000</pubDate>
       <description><![CDATA[&quot;in that I&quot; vs &quot;to the extent that I&quot;…]]></description>
       <content:encoded><![CDATA[<p>"in that I" vs "to the extent that I" <- I like "in that I"
-    </p>]]></content:encoded>
+</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
