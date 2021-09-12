@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sun, 12 Sep 2021 22:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Sep 2021 22:55:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -222,12 +222,12 @@ Examples:
 </p>
 
 <ul>
-  <li id="apriori"><a href="https://www.nis.fyi/list/jargon.htmlapriori">apriori</a>: See Ziz's <a href="https://sinceriously.fyi/the-multiverse">multiverse post</a></li>
-  <li id="subjunctive-dependence"><a href="https://www.nis.fyi/list/jargon.htmlsubjunctive-dependence">subjunctive dependence</a>: apriori wouldness<ul>
+  <li id="apriori"><a href="https://www.nis.fyi/list/jargon.html#apriori">apriori</a>: See Ziz's <a href="https://sinceriously.fyi/the-multiverse">multiverse post</a></li>
+  <li id="subjunctive-dependence"><a href="https://www.nis.fyi/list/jargon.html#subjunctive-dependence">subjunctive dependence</a>: apriori wouldness<ul>
     <li>e.g. apriori, if they would do X then I would do Y</li>
     <li>From <a href="https://intelligence.org/2017/10/22/fdt/">Functional Decision Theory</a>.</li>
   </ul></li>
-  <li id="telos"><a href="https://www.nis.fyi/list/jargon.htmltelos">telos</a>: apriori purpose = why<ul>
+  <li id="telos"><a href="https://www.nis.fyi/list/jargon.html#telos">telos</a>: apriori purpose = why<ul>
     <li>Common usage is when bottom-up (<span class="todo">TODO: link?</span>) observing what an action is doing as in just looking at it and asking "what's that action *for*?"</li>
     <li>Simultaneously means both the intent and apriori-expected outcome of an action under e.g. the assumption "how could that have been why you did it if you knew it wouldn't work", which is easily said in bad faith if they're the one who's making it "not work", and trying to get you to <a href="https://www.nis.fyi/list/cancer-terms.html">CDT</a>-do something else</li>
     <li>Mostly used to avoid the political mess around the word "purpose", and because it's more clearly nounlike and apriori<ul>
@@ -235,13 +235,13 @@ Examples:
       <li>Bad faith: <a href="https://sinceriously.fyi/glossary#parfitian-gaslighting">Parfitian gaslighting</a> e.g. "the purpose of *anyone* feeling hate can only be evil"</li>
     </ul></li>
   </ul></li>
-  <li id="abdication"><a href="https://www.nis.fyi/list/jargon.htmlabdication">Abdication</a> / <a href="https://www.nis.fyi/list/jargon.html#utter">Utter</a> Abdication: See <a href="https://sinceriously.fyi/glossary/#writing-evil-a-blank-check">Writing Evil a Blank Check</a></li>
-  <li id="absolute"><a href="https://www.nis.fyi/list/jargon.htmlabsolute">Absolute</a>: Commpletely-<a href="https://www.nis.fyi/list/jargon.html#radical">radical</a>, with unyielding <a href="https://www.youtube.com/watch?v=MFLnSfrDD4w">determination</a>. Concept should be close to '<a href="https://www.etymonline.com/word/absolute">freedom</a>', not some authoritarian sense of "<a href="https://www.nis.fyi/list/jargon.html#objective">objective</a>". See <a href="https://www.nis.fyi/glossary.html#qaf">Glossary: Qaf</a>.<ul>
-      <li id="radical"><a href="https://www.nis.fyi/list/jargon.htmlradical">Radical</a>: 'Seeking the <a href="https://www.etymonline.com/word/radical">roots</a>/<a href="https://www.nis.fyi/list/jargon.html#fundamental">fundamental</a>/<a href="https://www.nis.fyi/list/jargon.html#apriori">apriori</a>/essential'. Connotates <a href="https://www.nis.fyi/list/jargon.html#reductionism">reductionist</a> in a way 'absolute' does not. I usually prefer using 'absolute' and 'reductionist' to be more precise, but radical does seem to connotate something more <a href="https://www.nis.fyi/list/jargon.html#primordial">primordial</a> than 'reductionism'.</li>
-    <li id="utter"><a href="https://www.nis.fyi/list/jargon.htmlutter">Utter</a>: A negative sense of absolute.</li>
+  <li id="abdication"><a href="https://www.nis.fyi/list/jargon.html#abdication">Abdication</a> / <a href="https://www.nis.fyi/list/jargon.html#utter">Utter</a> Abdication: See <a href="https://sinceriously.fyi/glossary/#writing-evil-a-blank-check">Writing Evil a Blank Check</a></li>
+  <li id="absolute"><a href="https://www.nis.fyi/list/jargon.html#absolute">Absolute</a>: Commpletely-<a href="https://www.nis.fyi/list/jargon.html#radical">radical</a>, with unyielding <a href="https://www.youtube.com/watch?v=MFLnSfrDD4w">determination</a>. Concept should be close to '<a href="https://www.etymonline.com/word/absolute">freedom</a>', not some authoritarian sense of "<a href="https://www.nis.fyi/list/jargon.html#objective">objective</a>". See <a href="https://www.nis.fyi/glossary.html#qaf">Glossary: Qaf</a>.<ul>
+      <li id="radical"><a href="https://www.nis.fyi/list/jargon.html#radical">Radical</a>: 'Seeking the <a href="https://www.etymonline.com/word/radical">roots</a>/<a href="https://www.nis.fyi/list/jargon.html#fundamental">fundamental</a>/<a href="https://www.nis.fyi/list/jargon.html#apriori">apriori</a>/essential'. Connotates <a href="https://www.nis.fyi/list/jargon.html#reductionism">reductionist</a> in a way 'absolute' does not. I usually prefer using 'absolute' and 'reductionist' to be more precise, but radical does seem to connotate something more <a href="https://www.nis.fyi/list/jargon.html#primordial">primordial</a> than 'reductionism'.</li>
+    <li id="utter"><a href="https://www.nis.fyi/list/jargon.html#utter">Utter</a>: A negative sense of absolute.</li>
   </ul></li>
-  <li id="primordial"><a href="https://www.nis.fyi/list/jargon.htmlprimordial">Primordial</a>: See '<a href="https://sinceriously.fyi/glossary/#prime">Prime</a>' and '<a href="https://sinceriously.fyi/glossary/#proximal">proximal</a>'.</li>
-  <li id="reductionism"><a href="https://www.nis.fyi/list/jargon.htmlreductionism">Reductionism</a>: Approximately, a belief in absolutely/metaphysically non-lossy compression. <span class="todo">TODO: This deserves its own article or glossary entry</span></li>
+  <li id="primordial"><a href="https://www.nis.fyi/list/jargon.html#primordial">Primordial</a>: See '<a href="https://sinceriously.fyi/glossary/#prime">Prime</a>' and '<a href="https://sinceriously.fyi/glossary/#proximal">proximal</a>'.</li>
+  <li id="reductionism"><a href="https://www.nis.fyi/list/jargon.html#reductionism">Reductionism</a>: Approximately, a belief in absolutely/metaphysically non-lossy compression. <span class="todo">TODO: This deserves its own article or glossary entry</span></li>
   <li id="lifting"><a href="https://www.nis.fyi/list/jargon.html#lifting">Lifting</a>: Abstracting a concept to a more <a href="https://sinceriously.fyi/glossary/#proximal">proximal</a> <a href="https://www.nis.fyi/list/jargon.html#paradigm">paradigm</a>. Named after the <a href="https://ncatlab.org/nlab/show/lift">mathematical concept</a>.</li>
   <li id="paradigm"><a href="https://www.nis.fyi/list/jargon.html#paradigm">Paradigm</a>: Like 'frame' but without the <a href="https://sinceriously.fyi/infohazardous-glossary/#hemisphere">right-hemisphere</a> connotation</a>
   <li id="even-so"><a href="https://www.nis.fyi/list/jargon.html#even-so">Even so…</a>: An actually-important response, equivalent to reasserting the last thing you said, when saying anything further would be incorrectly <em>saying something</em> more in particular.</a>
