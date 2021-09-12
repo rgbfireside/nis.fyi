@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sun, 12 Sep 2021 07:42:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Sep 2021 21:59:19 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -235,7 +235,13 @@ Examples:
       <li>Bad faith: <a href="https://sinceriously.fyi/glossary#parfitian-gaslighting">Parfitian gaslighting</a> e.g. "the purpose of *anyone* feeling hate can only be evil"</li>
     </ul></li>
   </ul></li>
-  <li id="abdication">Abdication / Utter Abdication: See <a href="https://sinceriously.fyi/glossary/#writing-evil-a-blank-check">Writing Evil a Blank Check</a></li>
+  <li id="abdication">Abdication / <a href="https://www.nis.fyi/list/jargon.html#utter">Utter</a> Abdication: See <a href="https://sinceriously.fyi/glossary/#writing-evil-a-blank-check">Writing Evil a Blank Check</a></li>
+  <li id="absolute">Absolute: Commpletely-<a href="https://www.nis.fyi/list/jargon.html#radical">radical</a>, with unyielding <a href="https://www.youtube.com/watch?v=MFLnSfrDD4w">determination</a>. Concept should be close to '<a href="https://www.etymonline.com/word/absolute">freedom</a>', not some authoritarian sense of "objective". See <a href="https://www.nis.fyi/glossary.html#qaf">Glossary: Qaf</a>.<ul>
+    <li id="radical">Radical: 'Seeking the <a href="https://www.etymonline.com/word/radical">roots</a>/fundamental/<a href="https://www.nis.fyi/list/jargon.html#apriori">apriori</a>/essential'. Connotates <a href="https://www.nis.fyi/list/jargon.html#reductionism">reductionist</a> in a way 'absolute' does not. I usually prefer using 'absolute' and 'reductionist' to be more precise, but radical does seem to connotate something more <a href="https://www.nis.fyi/list/jargon.html#primordial">primordial</a> than 'reductionism'.</li>
+    <li id="utter">Utter: A negative sense of absolute.</li>
+  </ul></li>
+  <li id="primordial">Primordial: See '<a href="https://sinceriously.fyi/glossary/#prime">Prime</a>' and '<a href="https://sinceriously.fyi/glossary/#proximal">proximal</a>'.</li>
+  <li id="reductionism">Reductionism: Approximately, a belief in absolutely/metaphysically non-lossy compression. <span class="todo">TODO: This deserves its own article or glossary entry</span></li>
 </ul>
 ]]></content:encoded>
     </item>
