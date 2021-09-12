@@ -10,11 +10,29 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sat, 11 Sep 2021 21:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Sep 2021 07:35:09 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Comment on Glossary: Qaf by sobet</title>
+      <link>https://www.nis.fyi/glossary.html#comment-2021-09-12-001</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#comment-2021-09-12-001</guid>
+      <dc:creator><![CDATA[sobet]]></dc:creator>
+      <pubDate>Sun, 12 Sep 2021 07:04:24 +0000</pubDate>
+      <description><![CDATA[reminds me of Intra:
+    “I will tell you precisely what Royalty is,” said Intra, “It is a
+    continuous cutting motion.”…]]></description>
+      <content:encoded><![CDATA[<p>
+    reminds me of <a
+    href="https://killsixbilliondemons.fandom.com/wiki/Intra">Intra</a>:
+    </p>
+
+    <p><q>“I will tell you precisely what Royalty is,” said Intra, “It is a
+    continuous cutting motion.”</q></p>
+    ]]></content:encoded>
+    </item>
     <item>
       <title>Comment on Glossary: Entropic Exit Scamming by Nis</title>
       <link>https://www.nis.fyi/glossary.html#comment-2021-09-03-001</link>
