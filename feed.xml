@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 14 Sep 2021 22:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 22:32:31 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -239,12 +239,26 @@ Examples:
   <li id="absolute"><a href="https://www.nis.fyi/list/jargon.html#absolute">Absolute</a>: Completely-<a href="https://www.nis.fyi/list/jargon.html#radical">radical</a>, with unyielding <a href="https://www.youtube.com/watch?v=MFLnSfrDD4w">determination</a>. Concept should be close to '<a href="https://www.etymonline.com/word/absolute">freedom</a>', not some authoritarian sense of "<a href="https://www.nis.fyi/list/jargon.html#objective">objective</a>". See <a href="https://www.nis.fyi/glossary.html#qaf">Glossary: Qaf</a>.<ul>
       <li id="radical"><a href="https://www.nis.fyi/list/jargon.html#radical">Radical</a>: 'Seeking the <a href="https://www.etymonline.com/word/radical">roots</a>/<a href="https://www.nis.fyi/list/jargon.html#fundamental">fundamental</a>/<a href="https://www.nis.fyi/list/jargon.html#apriori">apriori</a>/<a href="https://www.nis.fyi/list/jargon.html#essential">essential</a>'. Connotates <a href="https://www.nis.fyi/list/jargon.html#reductionism">reductionist</a> in a way 'absolute' does not. I usually prefer using 'absolute' and 'reductionist' to be more precise, but radical does seem to connotate something more <a href="https://www.nis.fyi/list/jargon.html#primordial">primordial</a> than 'reductionism'.</li>
     <li id="utter"><a href="https://www.nis.fyi/list/jargon.html#utter">Utter</a>: A negative sense of absolute.</li>
+    <li id="ultimate"><a href="https://www.nis.fyi/list/jargon.html#ultimate">Ultimate</a>: Like 'final', but not implying an <em>end</em>, just an extrapolation of what would happen if you went 'all the way'.</li>
   </ul></li>
   <li id="primordial"><a href="https://www.nis.fyi/list/jargon.html#primordial">Primordial</a>: See '<a href="https://sinceriously.fyi/glossary/#prime">Prime</a>' and '<a href="https://sinceriously.fyi/glossary/#proximal">proximal</a>'.</li>
   <li id="reductionism"><a href="https://www.nis.fyi/list/jargon.html#reductionism">Reductionism</a>: Approximately, a belief in absolutely/metaphysically non-lossy compression. <span class="todo">TODO: This deserves its own article or glossary entry</span></li>
   <li id="lifting"><a href="https://www.nis.fyi/list/jargon.html#lifting">Lifting</a>: Abstracting a concept to a more <a href="https://sinceriously.fyi/glossary/#proximal">proximal</a> <a href="https://www.nis.fyi/list/jargon.html#paradigm">paradigm</a>. Named after the <a href="https://ncatlab.org/nlab/show/lift">mathematical concept</a>.</li>
-  <li id="paradigm"><a href="https://www.nis.fyi/list/jargon.html#paradigm">Paradigm</a>: Like 'frame' but without the <a href="https://sinceriously.fyi/infohazardous-glossary/#hemisphere">right-hemisphere</a> connotation</a>
-  <li id="even-so"><a href="https://www.nis.fyi/list/jargon.html#even-so">Even so…</a>: An actually-important response, equivalent to reasserting the last thing you said, when saying anything further would be incorrectly <em>saying something</em> more in particular.</a>
+  <li id="paradigm"><a href="https://www.nis.fyi/list/jargon.html#paradigm">Paradigm</a>: Like 'frame' but without the <a href="https://sinceriously.fyi/infohazardous-glossary/#hemisphere">right-hemisphere</a> connotation</a></li>
+  <li id="even-so"><a href="https://www.nis.fyi/list/jargon.html#even-so">Even so…</a>: An actually-important response, equivalent to reasserting the last thing you said, when saying anything further would be incorrectly <em>saying something</em> more in particular.</li>
+  <li id="prediction-error"><a href="https://www.nis.fyi/list/jargon.html#prediction-error">Prediction Error</a>: Means approximately "things that feel off". See: "<a href="https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/">Book Review: Surfing Uncertainty</a>" and "<a href="https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/">Predictive Processing And Perceptual Control</a>"</li>
+</ul>
+
+<h1>Grammar</h1>
+
+<ul>
+  <li id="itselves"><a href="#itselves">Itselves</a>: Missing word in English. People often use "themselves" but this is ambiguous.</li>
+</ul>
+
+<h1>Jargon for which I use the common term instead</h1>
+
+<ul>
+  <li id="bucket-error"><a href="https://www.nis.fyi/list/jargon.html#bucket-error">Bucket Error</a>: Means 'conflation'</li>
 </ul>
 
 <h1>Words I avoid or tend not to use</h1>
