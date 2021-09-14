@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Mon, 13 Sep 2021 22:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 01:21:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -214,11 +214,11 @@ Examples:
       <guid isPermaLink="true">https://www.nis.fyi/list/jargon.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 26 Aug 2021 06:38:33 +0000</pubDate>
-      <description><![CDATA[Word chioce is extremely political. My choice of language is an expression of my sociopathy. Hopefully reading this page helps you learn how I think.
+      <description><![CDATA[Word choice is extremely political. My choice of language is an expression of my sociopathy. Hopefully reading this page helps you learn how I think.
  apriori: See Ziz&#39;s multiverse post
  subjunctive…]]></description>
       <content:encoded><![CDATA[<p>
-  Word chioce is extremely political. My choice of language is an expression of my <a href="https://sinceriously.fyi/glossary/#sociopathy">sociopathy</a>. Hopefully reading this page helps you learn how I think.
+  Word choice is extremely political. My choice of language is an expression of my <a href="https://sinceriously.fyi/glossary/#sociopathy">sociopathy</a>. Hopefully reading this page helps you learn how I think.
 </p>
 
 <ul>
