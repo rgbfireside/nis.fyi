@@ -10,11 +10,51 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 14 Sep 2021 22:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 22:55:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>List: Troll Lines</title>
+      <link>https://www.nis.fyi/list/troll-lines.html</link>
+      <guid isPermaLink="true">https://www.nis.fyi/list/troll-lines.html</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Tue, 14 Sep 2021 22:02:23 +0000</pubDate>
+      <description><![CDATA[Taxonomy of troll lines.
+ Cut-Off Troll Lines
+ &quot;Genesis&quot; Troll Line
+ Purposeless &quot;Unenlightenment&quot; Troll Line
+ &quot;Retirement&quot; Troll Line
+ Explicit Deathism
+ &quot;Everything is like, society and stuff, ther…]]></description>
+      <content:encoded><![CDATA[<p>
+  Taxonomy of <a href="https://sinceriously.fyi/glossary/#troll-line-in-the-first-post">troll lines</a>.
+</p>
+
+<ul>
+  <li><a href="https://sinceriously.fyi/glossary#cut-off">Cut-Off</a> Troll Lines<ul>
+    <li><a href="https://www.nis.fyi/post/genesis-troll-line.html">"Genesis" Troll Line</a></li>
+    <li><a href="https://www.nis.fyi/glossary.html#purposeless-unenlightenment-troll-line">Purposeless "Unenlightenment" Troll Line</a></li>
+    <li><a href="https://www.nis.fyi/glossary.html#retirement-troll-line">"Retirement" Troll Line</a></li>
+  </ul></li>
+  <li>Explicit Deathism<ul>
+    <li>"<a href="https://www.nis.fyi/living-reference.html#destroy-everything-link">Everything is like, society and stuff, there's no escaping it, so we need to destroy everything</a>"</li>
+    <li>"We must end all <a href="https://www.nis.fyi/glossary.html#suffering">suffering</a> once and for all"</li>
+  </ul></li>
+  <li>Explicit Evil<ul>
+    <li>Just straight up saying they're evil, they believe in might makes right, etc. Common with <a href="https://sinceriously.fyi/vampires-and-more-undeath/">vampires</a> especially.</li>
+    <li>Pure Gaslighting<ul>
+      <li><a href="https://sinceriously.fyi/glossary#contradiction-troll-line">Contradiction Troll Line</a></li>
+      <li>"It's nobody's fault"<ul>
+        <li>"<a href="https://twitter.com/search?q=%22hurt%20people%20hurt%20people%22&amp;src=typed_query">hurt people hurt people</a>"</li>
+      </ul></li>
+      <li>"<a href="https://sinceriously.fyi/glossary/#comment-1317">I'm making it better by confessing!</a>"</li>
+    </ul></li>
+  </ul></li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Qaf</title>
       <link>https://www.nis.fyi/glossary.html#qaf</link>

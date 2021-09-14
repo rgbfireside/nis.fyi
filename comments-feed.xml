@@ -10,11 +10,23 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 14 Sep 2021 22:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 22:55:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Comment on List: Troll Lines by Ziz</title>
+      <link>https://www.nis.fyi/list/troll-lines.html#comment-2021-09-14-002</link>
+      <guid isPermaLink="true">https://www.nis.fyi/list/troll-lines.html#comment-2021-09-14-002</guid>
+      <dc:creator><![CDATA[Ziz]]></dc:creator>
+      <pubDate>Tue, 14 Sep 2021 22:48:21 +0000</pubDate>
+      <description><![CDATA[&quot;It&#39;s nobody&#39;s fault&quot;…]]></description>
+      <content:encoded><![CDATA[<p>
+  <a href="https://sinceriously.fyi/aliveness/#comment-4192">"It's nobody's fault"</a>
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comment on Glossary: Qaf by sobet &lt;plum@slack.church&gt;</title>
       <link>https://www.nis.fyi/glossary.html#comment-2021-09-12-001</link>
