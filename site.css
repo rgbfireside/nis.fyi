@@ -1,3 +1,18 @@
+/* Font Setup */
+
+@font-face {
+  font-family: 'lohit_kannada_regular';
+  src: url('font/lohit_kannada_regular.woff2') format('woff2'),
+       url('font/lohit_kannada_regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  unicode-range: U+0C80-0CFF;
+}
+
+html {
+  font-family: 'lohit_kannada_regular';
+}
+
 /* Page layout */
 
 body {
