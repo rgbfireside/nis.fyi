@@ -3,7 +3,7 @@
 @import url(font/noto_sans_kannada.css);
 
 html {
-  font-family: 'Noto Sans Kannada';
+  font-family: serif, 'Noto Sans Kannada';
 }
 
 /* Page layout */
