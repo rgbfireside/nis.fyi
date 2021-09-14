@@ -1,6 +1,6 @@
 /* Font Setup */
 
-@import(font/noto_sans_kannada.css);
+@import url(font/noto_sans_kannada.css);
 
 html {
   font-family: 'Noto Sans Kannada';
