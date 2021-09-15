@@ -10,11 +10,21 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 14 Sep 2021 22:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 01:10:33 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Reply to sobet &lt;plum@slack.church&gt; on Glossary: Qaf by Nis</title>
+      <link>https://www.nis.fyi/glossary.html#comment-2021-09-15-001</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#comment-2021-09-15-001</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Wed, 15 Sep 2021 01:10:04 +0000</pubDate>
+      <description><![CDATA[ಠ_ಠ…]]></description>
+      <content:encoded><![CDATA[<p>ಠ_ಠ</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comment on List: Troll Lines by Ziz</title>
       <link>https://www.nis.fyi/list/troll-lines.html#comment-2021-09-14-002</link>
