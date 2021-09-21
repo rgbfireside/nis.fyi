@@ -10,11 +10,23 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 21 Sep 2021 19:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Sep 2021 19:09:05 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Comment on Glossary: Purposeless &quot;Unenlightenment&quot; Troll Line by Nis</title>
+      <link>https://www.nis.fyi/glossary.html#comment-2021-09-21-001</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#comment-2021-09-21-001</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Tue, 21 Sep 2021 19:04:22 +0000</pubDate>
+      <description><![CDATA[An interpretation of buddhists as nephandi: Seekers of the Void, routing energy to nothing.…]]></description>
+      <content:encoded><![CDATA[<p>
+  An interpretation of buddhists as nephandi: <a href="http://167.99.155.149/archive/seekersvoid.html">Seekers of the Void</a>, routing energy to nothing.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comment on Glossary: &quot;Suffering&quot; by Nis</title>
       <link>https://www.nis.fyi/glossary.html#comment-2021-09-21-001</link>
