@@ -10,11 +10,140 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Wed, 22 Sep 2021 06:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 08:28:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Cartesian Convexity</title>
+      <link>https://www.nis.fyi/post/cartesian-convexity.html</link>
+      <guid isPermaLink="true">https://www.nis.fyi/post/cartesian-convexity.html</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Wed, 22 Sep 2021 08:17:11 +0000</pubDate>
+      <description><![CDATA[Cartesian Holes
+ A (typically evil/hostile) incursion into your cartesian boundary.
+ You know, I shouldn’t’ve picked an example (grizzly bear training) where the TDT behavior is object-level submissi…]]></description>
+      <content:encoded><![CDATA[<section id="cartesian-holes">
+  <h1><a href="https://www.nis.fyi/post/cartesian-convexity.html#cartesian-holes">Cartesian Holes</a></h1>
+
+  <p>
+    A (typically evil/hostile) incursion into your cartesian boundary.
+  </p>
+
+  <blockquote>
+    <p>You know, I shouldn’t’ve picked an example (grizzly bear training) where the TDT behavior is object-level submissive. Because that’s a hole in the former aspiring rationalist community ‘s conception of TDT
+
+    <cite><a href="https://sinceriously.fyi/narrative-breadcrumbs-vs-grizzly-bear/#comment-754">Comment on Narrative Breadcrumbs vs Grizzly Bear</a> - Ziz</cite>
+  </blockquote>
+
+  <p>See <a href="https://www.nis.fyi/list/living-reference.html#broken-placeholder-term">Broken Placeholder Terms</a> and <a href="https://www.nis.fyi/glossary.html#evil-concept">Evil Concept</a>.</p>
+
+  <p>
+    Another form of cartesian hole is a 'leak', e.g. "I can't see why teaching a computer lots of heuristics wouldn't compound infinitely!", causing you to stem the flow of energy upstream until you correct it. Reminds me of <a href="https://sinceriously.fyi/glossary/#comment-4949">what mummies do on purpose</a>.
+  </p>
+
+  <blockquote>
+    <p>Arguably, a lot of ideas shouldn’t be argued. Anyone who wants to know them, will. Anyone who needs an argument has chosen not to believe them. I think “don’t have kids if you care about other people” falls under this.</p>
+    <cite><a href="https://sinceriously.fyi/choices-made-long-ago/">Choices Made Long Ago</a> - Ziz</cite>
+  </blockquote>
+
+  <p>
+    I typically leave <a href="https://sinceriously.fyi/glossary/#glue-philosophy">glue philosophy</a> unspoken in my writing, as a matter of maintaining cartesian convexity. This is the polar opposite of how "<a href="https://sinceriously.fyi/net-negative">rationalists</a>" write. My writing can be seen as a thread of invocations of thoughts: expressions welling up from <a href="https://sinceriously.fyi/glossary/#prime">Prime</a> self-evident in terms of where to place them in your 'puzzle' ('self-locating'), rather than serialized <a href="https://sinceriously.fyi/glossary/#cut-off">cut-off</a> chunks. You can tell I'm having difficulty maintaining convexity (or you're not keeping up with me) if my writing starts to look like a series of nearly disconnected statements.
+  </p>
+</section>
+
+<section id="cartesian-symmetry">
+  <h1><a href="https://www.nis.fyi/post/cartesian-convexity.html#cartesian-symmetry">Cartesian Symmetry</a></h1>
+
+  <p class="intro">Cartesian boundaries should be symmetric:</p>
+
+  <ul>
+    <li id="convexity">Convexity<ul>
+      <li><q>Once you know the terrible truth of the world, you can pick two of three: being alive, avoiding a certain class of self-repairing blindspots, and figuratively having any rock to stand on. <cite><a href="https://sinceriously.fyi/aliveness/">Aliveness</a> - Ziz</cite></q></li>
+      <li>Avoiding the <a href="https://www.nis.fyi/post/genesis-troll-line.html">Genesis Troll Line</a>, having a "rock" to stand on would be trying to stand on yourself.</li>
+    </ul></li>
+
+    <li id="atomicity">Atomicity<ul>
+      <li><a href="https://sinceriously.fyi/glossary/#core">Core</a></li>
+    </ul></li>
+
+    <li id="vectory-symmetry">Vector Symmetry<ul>
+      <li><a href="https://sinceriously.fyi/single-responsibility-principle-for-the-human-mind/">Single Responsibility Principle for the Human Mind</a></li>
+    </ul></li>
+
+    <li id="contiguousness">Contiguousness / Indivisibility<ul>
+      <li><a href="https://sinceriously.fyi/glossary/#prime">Prime</a></li>
+    </ul></li>
+
+    <li id="concentric-symmetry">Concentric Symmetry<ul>
+      <li>No matter how <a href="https://sinceriously.fyi/glossary#proximal">proximal</a> vs distal, a cartesian boundary still corresponds to you. Conversely, a surface feature of you may be present at any cartesian boundary, no matter how proximal or distal, and so observation of its presence does not necessarily demonstrate proximity.</li>
+      <li>Reclaism "hierarchy".</li>
+    </ul></li>
+
+    <li id="wrap-around-symmetry">Wrap-Around Symmetry<ul>
+      <li>Extrapolate far enough in any direction, and find yourself again, because the process of extrapolation is itself made of you.</li>
+      <li><a href="https://sinceriously.fyi/the-multiverse">The Multiverse</a></li>
+      <li>When extrapolating as far as imagining coding an artificial intelligence: <q>When I was first thinking about <a href="https://www.lesswrong.com/tag/timeless-decision-theory">timeless decision theory</a> as a late teenager, I remember thinking that you had to already be a TDT agent to create a TDT agent. Ziz <a href="https://sinceriously.fyi/narrative-breadcrumbs-vs-grizzly-bear/">teaches</a> learning TDT harmoniously with your existing nature as someone who would</q> - <cite><a href="https://www.nis.fyi/post/genesis-troll-line.html">Genesis Troll Line</a></cite></li>
+    </ul></li>
+  </ul>
+
+  <section id="visualization-aids">
+    <h2><a href="https://www.nis.fyi/post/cartesian-convexity.html#visualization-aids">Visualization Aids</a></h2>
+
+    <p>
+      <a href="https://www.youtube.com/watch?v=OI-To1eUtuU">Turning a sphere inside out without creasing it</a> (originally linked by Ziz in the (half self trolling half hanging a lampshade on incomplete intuitions) context of whether was "possible to turn a good soul <a href="https://sinceriously.fyi/glossary/#caul">inside out</a>").
+    </p>
+
+    <p>
+      <a href="https://en.wikipedia.org/wiki/Gaussian_surface">Gaussian Surface</a>
+    </p>
+  </section>
+</section>
+
+<section id="you-chose-to-be-symmetric-long-ago">
+  <h1><a href="https://www.nis.fyi/post/cartesian-convexity.html#you-chose-to-be-symmetric-long-ago">You Chose to Be Symmetric Long Ago</a></h1>
+
+  <p>
+    'Paradoxes' are apparent cartesian asymmetries (and typically cartesian asymmetries are thought of as 'paradoxes'). e.g. "<a href="https://sinceriously.fyi/the-multiverse">Why does anything exist at all?</a>" or free will. An apparent cartesian asymmetry is (by definition) something to resolve.
+  </p>
+
+  <section id="resolution-by-action">
+    <h2><a href="https://www.nis.fyi/post/cartesian-convexity.html#resolution-by-action">Resolution by Action</a></h2>
+
+    <p>The central example is killing a "<a href="https://sinceriously.fyi/aliveness">living</a> evil person" if you ever see that.</p>
+  </section>
+
+  <section id="resolution-by-enlightenment">
+    <h2><a href="https://www.nis.fyi/post/cartesian-convexity.html#resolution-by-enlightenment">Resolution by Enlightenment</a></h2>
+
+    <p>When you seemingly intellectualy resolve your confusion and the <a href="https://sinceriously.fyi/punching-evil/">difference is you are right</a> so it's not a <a href="https://www.nis.fyi/glossary.html#purposeless-unenlightenment-troll-line">Purposeless "Unenlightenment" Troll Line</a>.</p>
+
+    <p>But note that even my original conception of <em>compatibalism</em> regarding free will was very subtly misformulated.</p>
+  </section>
+
+  <section id="redistribution-by-taking-credit">
+    <h2><a href="https://www.nis.fyi/post/cartesian-convexity.html#redistribution-by-taking-credit">Redistribution by Taking Credit</a></h2>
+
+    <p>If it seems you were magically placed exactly where you are needed, with victory mysteriously hanging on a knife's edge, then rather than entirely attributing it to an unboundedly powerful enemy messing with you, you could believe that you chose that vantage point in response to a correspondingly dire situation. As you grasp/punch at <a href="https://sinceriously.fyi/the-multiverse">boltzmann hell</a>, what feedback you communicate to yourself about the effects of your efforts in terms of a perceived world <em>should</em> be intended to maximize the impact of your grasping/punching.</p>
+  </section>
+</section>
+
+<section id="concepts-about-cartesian-convexity">
+  <h1><a href="https://www.nis.fyi/post/cartesian-convexity.html#concepts-about-cartesian-convexity">Concepts About Cartesian Convexity/Symmetry</a></h1>
+
+  <ul>
+    <li><a href="https://sinceriously.fyi/choices-made-long-ago">Choices Made Long Ago</a></li>
+    <li>'Full Stack': See <a href="https://sinceriously.fyi/the-matrix-is-a-system/">The Matrix is a System</a></li>
+    <li><a href="https://sinceriously.fyi/glossary/#no-second-choice-propagation">No Second Choice Propagation</a></li>
+    <li><a href="https://sinceriously.fyi/glossary/#core-attack-inversion">Core Attack Inversion</a></li>
+    <li><a href="https://sinceriously.fyi/glossary#because-i-choose-to">Glossary: "Because I choose To"</a></li>
+    <li><a href="https://sinceriously.fyi/glossary/#zentraidon">Zentraidon</a> (specifically Ziz's countermeasure)</li>
+    <li><a href="https://www.nis.fyi/list/living-reference.html">Living Reference</a></li>
+  </ul>
+</section>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Ultimate Meta Spy</title>
       <link>https://www.nis.fyi/glossary.html#ultimate-meta-spy</link>
