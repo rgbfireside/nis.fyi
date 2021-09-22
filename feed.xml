@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Wed, 22 Sep 2021 08:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 08:41:38 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -105,7 +105,7 @@
   <h1><a href="https://www.nis.fyi/post/cartesian-convexity.html#you-chose-to-be-symmetric-long-ago">You Chose to Be Symmetric Long Ago</a></h1>
 
   <p>
-    'Paradoxes' are apparent cartesian asymmetries (and typically cartesian asymmetries are thought of as 'paradoxes'). e.g. "<a href="https://sinceriously.fyi/the-multiverse">Why does anything exist at all?</a>" or free will. An apparent cartesian asymmetry is (by definition) something to resolve.
+    'Paradoxes' are apparent cartesian asymmetries (and typically cartesian asymmetries are thought of as 'paradoxes'). e.g. "<a href="https://sinceriously.fyi/the-multiverse">Why does anything exist at all?</a>" or free will vs determinism. An apparent cartesian asymmetry is (by definition) something to resolve.
   </p>
 
   <section id="resolution-by-action">
