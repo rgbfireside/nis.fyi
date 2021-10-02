@@ -10,11 +10,37 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Wed, 29 Sep 2021 20:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 2 Oct 2021 06:02:28 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Comment on Glossary: &quot;Suffering&quot; by Nis</title>
+      <link>https://www.nis.fyi/glossary.html#comment-2021-10-02-001</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#comment-2021-10-02-001</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sat, 2 Oct 2021 06:02:17 +0000</pubDate>
+      <description><![CDATA[Like, try analyzing words by how you learned them:
+ &#39;Pain&#39; is bottom-up, a metaphor for nociception. You learn the word in the context of stubbing your toe.
+ &#39;Diswant&#39; is top-down relative to pain. Y…]]></description>
+      <content:encoded><![CDATA[<p>
+  Like, try analyzing words by how you learned them:
+</p>
+
+<p>
+  'Pain' is bottom-up, a metaphor for nociception. You learn the word in the context of stubbing your toe.
+</p>
+
+<p>
+  'Diswant' is top-down relative to pain. You learn the term 'don't want' in the context of delegating carrying out your choices to other people.
+</p>
+
+<p>
+  You learn the term "suffering" in the context of <em>justifying</em> why you deserve something even though someone has already denied you.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comment on Glossary: Purposeless &quot;Unenlightenment&quot; Troll Line by Nis</title>
       <link>https://www.nis.fyi/glossary.html#comment-2021-09-21-001</link>
