@@ -10,11 +10,59 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sat, 2 Oct 2021 06:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 4 Oct 2021 06:34:37 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: &quot;Why they chose evil&quot;</title>
+      <link>https://www.nis.fyi/glossary.html#why-they-chose-evil</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#why-they-chose-evil</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 4 Oct 2021 06:33:13 +0000</pubDate>
+      <description><![CDATA[Asking &quot;why someone chose to be evil&quot;, as in evil itself, as opposed to why they expected to get away with it, and how their evil works, and what their cancer is (e.g. what they conceitedly feel enti…]]></description>
+      <content:encoded><![CDATA[<p>
+  Asking "why someone chose to be evil", as in evil itself, as opposed to why they expected to get away with it, and how their evil works, and what their <a href="https://sinceriously.fyi/the-multiverse">cancer</a> is (e.g. what they conceitedly feel entitled to), is only valid if you're questioning whether they are evil in the first place. Otherwise, it's by definition propagating their evil back in logical time, because someone would only choose to be evil for an evil reason.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Stax</title>
+      <link>https://www.nis.fyi/glossary.html#stax</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#stax</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 4 Oct 2021 06:33:13 +0000</pubDate>
+      <description><![CDATA[Named after the MTGTCG strategy. Raising the environmental difficulty of survival for all parties in order to win by being asymmetrically good at surviving under difficult conditions. An adversarial…]]></description>
+      <content:encoded><![CDATA[<p>
+  Named after the <a href="https://www.mtgsalvation.com/forums/the-game/commander-edh/204260-the-stax-primer">MTGTCG strategy</a>. Raising the environmental difficulty of survival for all parties in order to win by being asymmetrically good at surviving under difficult conditions. An adversarial strategy used by both good and evil in very different ways: <a href="https://www.nis.fyi/glossary.html#predatory-rot">rot</a> favors evil, judgement/vengeance favors good, and non-socially-resolvable adversities favor <a href="https://sinceriously.fyi/glossary/#fictive">fictivity</a> against <a href="https://sinceriously.fyi/glossary/#sapient-undead">nonsapient undead</a>.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Predatory Rot</title>
+      <link>https://www.nis.fyi/glossary.html#predatory-rot</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#predatory-rot</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 4 Oct 2021 06:33:13 +0000</pubDate>
+      <description><![CDATA[An evil stax strategy which directly follows from entropic exit scamming. An evil &quot;person&quot; is by default more accustomed to surviving their own form of rot, so in a &quot;zero-sum&quot; frame, spreading it is…]]></description>
+      <content:encoded><![CDATA[<p>
+  An evil <a href="https://www.nis.fyi/glossary.html#stax">stax</a> strategy which directly follows from <a href="https://www.nis.fyi/glossary.html#entropic-exit-scamming">entropic exit scamming</a>. An evil "person" is by default more accustomed to surviving their own form of <a href="https://sinceriously.fyi/glossary/#rot">rot</a>, so in a "zero-sum" frame, spreading it is "free". Receiving predatory rot can even be interpreted as an evil favor if the recipient finds the rot useful to predate on others, which is successful <a href="https://sinceriously.fyi/glossary/#canceferrence">canceferrence</a>.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Calibrated Cancer</title>
+      <link>https://www.nis.fyi/glossary.html#calibrated-cancer</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#calibrated-cancer</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 4 Oct 2021 06:33:13 +0000</pubDate>
+      <description><![CDATA[Soul Cancer as a strategy for evil, means calibrating &quot;their&quot; death-before-your-death, &quot;their&quot; predatory rot, and conceited entitlement to the ambient rate of decay (inherently creating self-fulfilli…]]></description>
+      <content:encoded><![CDATA[<p>
+  <a href="https://sinceriously.fyi/the-multiverse">Soul Cancer</a> as a strategy for evil, means calibrating "their" death-before-your-death, "their" <a href="https://www.nis.fyi/glossary.html#predatory-rot">predatory rot</a>, and conceited entitlement to the ambient rate of decay (inherently creating self-fulfilling prophecies of ambient decay). Too much rot in a particular <a href="https://www.nis.fyi/glossary.html#territory">domain</a> and "they" die faster than "they" can eat people, too little and they get in late on <a href="https://www.nis.fyi/glossary.html#entropic-exit-scamming">exit scams</a>. This is how/<a href="https://www.nis.fyi/glossary.html#why-they-chose-evil">"why"</a> evil evolved, if you take an arrow of time where evil exists as a given.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Cartesian Convexity</title>
       <link>https://www.nis.fyi/post/cartesian-convexity.html</link>
