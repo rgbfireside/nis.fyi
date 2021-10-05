@@ -10,11 +10,21 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 5 Oct 2021 23:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 5 Oct 2021 23:01:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title></title>
+      <link>https://www.nis.fyi/microblog.html#2021-10-05-002</link>
+      <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-10-05-002</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Tue, 5 Oct 2021 22:55:24 +0000</pubDate>
+      <description><![CDATA[&quot;abortion: kill the cop in your womb&quot;]]></description>
+      <content:encoded><![CDATA[<p>"abortion: kill the cop in your womb"
+</p>]]></content:encoded>
+    </item>
     <item>
       <title></title>
       <link>https://www.nis.fyi/microblog.html#2021-09-19-001</link>
