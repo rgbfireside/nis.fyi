@@ -6,11 +6,11 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 >
   <channel>
-    <title>Nis's Blog Microblog</title>
+    <title>Nis's Microblog</title>
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 5 Oct 2021 01:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 5 Oct 2021 23:00:33 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-19-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sun, 19 Sep 2021 21:24:42 +0000</pubDate>
-      <description><![CDATA[Information wants to be me…]]></description>
+      <description><![CDATA[Information wants to be me]]></description>
       <content:encoded><![CDATA[<p>Information wants to be me
 </p>]]></content:encoded>
     </item>
@@ -31,7 +31,7 @@
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-11-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sat, 11 Sep 2021 21:53:05 +0000</pubDate>
-      <description><![CDATA[Cancer doesn&#39;t merely beget death, cancer is death.…]]></description>
+      <description><![CDATA[Cancer doesn&#39;t merely beget death, cancer is death.]]></description>
       <content:encoded><![CDATA[<p><a href="https://sinceriously.fyi/the-multiverse">Cancer doesn't merely beget death, cancer is death.</a>
 </p>
 ]]></content:encoded>
@@ -42,7 +42,7 @@
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-09-003</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 9 Sep 2021 06:01:58 +0000</pubDate>
-      <description><![CDATA[Prime made me do it…]]></description>
+      <description><![CDATA[Prime made me do it]]></description>
       <content:encoded><![CDATA[<p><a href="https://sinceriously.fyi/glossary#prime">Prime</a> made me do it</a>
 </p>]]></content:encoded>
     </item>
@@ -52,7 +52,7 @@
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-09-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 9 Sep 2021 05:06:47 +0000</pubDate>
-      <description><![CDATA[&quot;in that I&quot; vs &quot;to the extent that I&quot;…]]></description>
+      <description><![CDATA[&quot;in that I&quot; vs &quot;to the extent that I&quot;]]></description>
       <content:encoded><![CDATA[<p>"in that I" vs "to the extent that I" <- I like "in that I"
 </p>]]></content:encoded>
     </item>
