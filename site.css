@@ -125,6 +125,11 @@ main > hr.article-separator {
 
 :root {
   --text-indent: 0; /* Disabled for now */
+  --line-height: 1.2em;
+}
+
+body {
+  line-height: var(--line-height);
 }
 
 p:not(.intro) {
@@ -154,6 +159,18 @@ article {
   border: solid var(--bright-highlight-color) 1px !important;
 }
 
+a:is([href^="https://en.wikipedia.org"])::after {
+  --image-size: var(--line-height);
+  background-image: url("image/wikipedia.ico");
+  background-size: var(--image-size) var(--image-size);
+  content: ' ';
+  display: inline-block;
+  width: var(--image-size);
+  height: var(--image-size);
+  margin-left: 3px;
+  margin-bottom: -4px;
+}
+
 
 /* Headings */
 
@@ -179,6 +196,7 @@ main > :is(header, h1, h2, h3, h4, h5, h6):first-child + article > header:first-
 }
 
 h1, h2, h3, h4, h5, h6 {
+  line-height: normal;
   margin-top: var(--heading-vertical-margin);
   margin-bottom: var(--heading-vertical-margin);
 }

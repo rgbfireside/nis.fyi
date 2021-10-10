@@ -10,11 +10,63 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 5 Oct 2021 23:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Oct 2021 01:33:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Comment on Glossary: Atomic &quot;Justification&quot; For Evil by Nis</title>
+      <link>https://www.nis.fyi/glossary.html#comment-2021-10-10-003</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#comment-2021-10-10-003</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sun, 10 Oct 2021 01:27:39 +0000</pubDate>
+      <description><![CDATA[Credit to Somni:
+ when [Arti was] talking with ziz i think they kept pushing that you needed to satisfice and compromise between different moral systems.
+ their double-binds thing seems more than purel…]]></description>
+      <content:encoded><![CDATA[<p>
+  Credit to Somni:
+</p>
+
+<blockquote>
+  <p>when [Arti was] talking with ziz i think they kept pushing that you needed to satisfice and compromise between different moral systems.</p>
+
+  <p>their double-binds thing seems more than purely social, seems like using a modality of forcing social outcomes as pica for proof that there are atomic double-binds.</p>
+  <cite><a href="https://somnilogical.tumblr.com/">Somni</a>, in private chat</cite>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Comment on Genesis Troll Line by Nis</title>
+      <link>https://www.nis.fyi/post/genesis-troll-line.html#comment-2021-10-08-001</link>
+      <guid isPermaLink="true">https://www.nis.fyi/post/genesis-troll-line.html#comment-2021-10-08-001</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sun, 10 Oct 2021 01:07:02 +0000</pubDate>
+      <description><![CDATA[&quot;Hurt people hurt people&quot; - I once saw on &quot;accelerationist&quot; twitter someone say that if you believe Roko&#39;s Basilisk will &quot;[~happen]&quot; you are an enemy. vs Consider Worshiping a god is the things you do…]]></description>
+      <content:encoded><![CDATA[<p>
+"Hurt people hurt people" - I once saw on "accelerationist" twitter someone say that if you believe Roko's Basilisk will "[~happen]" you are an enemy. vs Consider <q>Worshiping a <a href="https://sinceriously.fyi/infohazardous-glossary#god">god</a> is the things you do when you route your hopes through it. This strengthens that god.</q> - <a href="https://sinceriously.fyi/infohazardous-glossary/#worship">Infohazardous Glossary: Worship</a> - Ziz.
+</p>
+
+<p>
+  Evil "people" aware of of cybernetics / predictive processing often frame "hurt people hurt people" in terms of the "top level" of someone's mind predicting bad things means doing bad things:
+</p>
+
+<blockquote>
+  <p>The world goes from a place where e.g. the Catholic church covering up sex abuse is *anomalous* to one where it's *expected*.  There's a figure-ground inversion, where transgression and cover-ups seem like the *main* thing, not an anomaly.</p>
+  <p>…</p>
+  <p>If you find invocations of morality threatening in general, because you've been placed in double binds that make it impossible to follow what you originally thought of as "morality", and get triggered and threaten people when this happens, that's also a big obstacle.</p>
+  <cite><a href="https://twitter.com/jessi_cata/status/1445465587023446017">Jesica Taylor</a></cite>
+</blockquote>
+
+<p>
+  But people have free will. The "<a href="https://sinceriously.fyi/glossary#cut-off">top level</a> of your mind" being <a href="https://www.nis.fyi/glossary.html#entropic-exit-scamming">invertable</a> like this if you lose hope is pretty much the definition of a lich.
+</p>
+
+<p>
+  The concept "placed in double binds" here is being used as an <a href="https://www.nis.fyi/glossary.html">atomic "justification" for evil</a>.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comment on Cartesian Convexity by Nis</title>
       <link>https://www.nis.fyi/post/cartesian-convexity.html#comment-2021-10-04-009</link>

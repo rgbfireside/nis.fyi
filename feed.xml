@@ -10,11 +10,58 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 5 Oct 2021 23:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Oct 2021 01:33:36 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Double Bind</title>
+      <link>https://www.nis.fyi/glossary.html#double-bind</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#double-bind</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sun, 10 Oct 2021 01:31:31 +0000</pubDate>
+      <description><![CDATA[See Double Bind.
+ From an outside view, a double bind is &quot;when it&#39;s not your fault because you couldn&#39;t have done anything anyway due to conflicting rules, but you&#39;re still being blamed unfairly&quot; (in t…]]></description>
+      <content:encoded><![CDATA[<p>
+  See <a href="https://en.wikipedia.org/wiki/Double_bind">Double Bind</a>.
+</p>
+
+<p>
+  From an <a href="https://sinceriously.fyi/glossary/#outside-view-disease">outside view</a>, a double bind is "when it's not your fault because you couldn't have done anything anyway due to conflicting rules, but you're still being blamed unfairly" (in terms of <a href="https://en.wikipedia.org/wiki/Work-to-rule">work-to-rule</a>/<a href="https://en.wikipedia.org/wiki/Malicious_compliance">malicious compliance</a>). A double bind is a form of <a href="https://en.wikipedia.org/wiki/Triangulation_(psychology)">triangulation</a> which happens when blame "doesn't add up", being passed off like hot potato.
+</p>
+
+<p>
+  The resolution, to avoid the concept 'double bind' being an <a href="https://www.nis.fyi/glossary.html#atomic-justification-for-evil">atomic "justification" for evil</a>, or outside view, is to resolve where the blame goes yourself and enact vengeance, at which point its just extortion being committed by (probably) multiple parties at once. Analogous to people trying to saidar-circumvent "copyright" by <a href="https://ansuz.sooke.bc.ca/entry/23">sharing two XOR-halves separately</a>.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Atomic &quot;Justification&quot; For Evil</title>
+      <link>https://www.nis.fyi/glossary.html#atomic-justification-for-evil</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#atomic-justification-for-evil</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sun, 10 Oct 2021 01:31:31 +0000</pubDate>
+      <description><![CDATA[A &quot;justification&quot; placeholder for an entropic exit scam presented as if its unresolvability is a self-evident, atomic, black box.
+ If you find invocations of morality threatening in general, because yo…]]></description>
+      <content:encoded><![CDATA[<p>
+  A "<a href="https://www.nis.fyi/glossary.html#why-they-chose-evil">justification</a>" placeholder for an <a href="https://www.nis.fyi/glossary.html#entropic-exit-scamming">entropic exit scam</a> presented as if its unresolvability is a self-evident, atomic, black box.
+</p>
+
+<blockquote>
+  <p>If you find invocations of morality threatening in general, because you've been placed in double binds that make it impossible to follow what you originally thought of as "morality", and get triggered and threaten people when this happens, that's also a big obstacle.</p>
+  <cite><a href="https://twitter.com/jessi_cata/status/1445465587023446017">Jesica Taylor</a></cite>
+</blockquote>
+
+<p>
+  But "morality" by the Non-Aggression Principle from an <a href="https://sinceriously.fyi/glossary/#outside-view-disease">outside view</a> is already impossible to satisfy in an immediate sense, because every action harms someone. Caring about other people is a <a href="https://www.nis.fyi/list/living-reference.html">living concept</a>, so it <em>already involves</em> <a href="https://www.nis.fyi/post/cartesian-convexity.html#you-chose-to-be-symmetric-long-ago">paradox</a> as part of the process of resolving how to care.
+</p>
+
+<p>
+  Closely related to <a href="https://www.nis.fyi/post/genesis-troll-line.html">genesis troll lines</a>, representing the structure one layer above projected as atomic "unresolvable paradoxes".
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: &quot;Why they chose evil&quot;</title>
       <link>https://www.nis.fyi/glossary.html#why-they-chose-evil</link>
@@ -519,6 +566,7 @@ Examples:
   <li id="paradigm"><a href="https://www.nis.fyi/list/jargon.html#paradigm">Paradigm</a>: Like 'frame' but without the <a href="https://sinceriously.fyi/infohazardous-glossary/#hemisphere">right-hemisphere</a> connotation</a></li>
   <li id="even-so"><a href="https://www.nis.fyi/list/jargon.html#even-so">Even so…</a>: An actually-important response, equivalent to reasserting the last thing you said, when saying anything further would be incorrectly <em>saying something</em> more in particular.</li>
   <li id="prediction-error"><a href="https://www.nis.fyi/list/jargon.html#prediction-error">Prediction Error</a>: Means approximately "things that feel off". See: "<a href="https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/">Book Review: Surfing Uncertainty</a>" and "<a href="https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/">Predictive Processing And Perceptual Control</a>"</li>
+  <li id="floating"><a href="https://www.nis.fyi/list/jargon.html#floating">Floating</a>: See e.g. <a href="https://en.wikipedia.org/wiki/Float_(money_supply)">Float (money supply)</a>. Means, figuratively, 'untethered', 'allowing anything in to fill the gap in specification'.</li>
 </ul>
 
 <h1>Grammar</h1>
@@ -545,6 +593,14 @@ Examples:
   </ul></li>
   <li id="mercy"><a href="https://sinceriously.fyi/choices-made-long-ago/#comment-3372"><q>mercy forgiveness redemption and indulgence […] you can add “compromise” […] on your conceptual shitlist.</q></a> - Ziz</li>
   <li id="broken-placeholder-terms">See: <a href="https://www.nis.fyi/list/living-reference.html#broken-placeholder-term">Broken Placeholder Terms</a></li>
+</ul>
+
+<h1>Linked throughout blog</h1>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Work-to-rule">work-to-rule</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Triangulation_(psychology)">triangulation</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Malicious_compliance">malicious compliance</a></li>
 </ul>
 ]]></content:encoded>
     </item>
