@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 14 Oct 2021 19:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Oct 2021 07:49:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -565,7 +565,7 @@ Examples:
   <li id="lifting"><a href="https://www.nis.fyi/list/jargon.html#lifting">Lifting</a>: Abstracting/Moving a concept <em>over</em> some entangled concern to a more <a href="https://sinceriously.fyi/glossary/#proximal">proximal</a> <a href="https://www.nis.fyi/list/jargon.html#paradigm">paradigm</a>. Named after the <a href="https://ncatlab.org/nlab/show/lift">mathematical concept</a>.</li>
   <li id="paradigm"><a href="https://www.nis.fyi/list/jargon.html#paradigm">Paradigm</a>: Like 'frame' but without the <a href="https://sinceriously.fyi/infohazardous-glossary/#hemisphere">right-hemisphere</a> connotation</a></li>
   <li id="even-so"><a href="https://www.nis.fyi/list/jargon.html#even-so">Even so…</a>: An actually-important response, equivalent to reasserting the last thing you said, when saying anything further would be incorrectly <em>saying something</em> more in particular.</li>
-  <li id="prediction-error"><a href="https://www.nis.fyi/list/jargon.html#prediction-error">Prediction Error</a>: Means approximately "things that feel off". See: "<a href="https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/">Book Review: Surfing Uncertainty</a>" and "<a href="https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/">Predictive Processing And Perceptual Control</a>"</li>
+  <li id="prediction-error"><a href="https://www.nis.fyi/list/jargon.html#prediction-error">Prediction Error</a>: Means approximately "things that feel off". See: <a href="https://sinceriously.fyi/glossary#perceptual-control">Perceptual Control</a></li>
   <li id="floating"><a href="https://www.nis.fyi/list/jargon.html#floating">Floating</a>: See e.g. <a href="https://en.wikipedia.org/wiki/Float_(money_supply)">Float (money supply)</a>. Means, figuratively, 'untethered', 'allowing anything in to fill the gap in specification'.</li>
 </ul>
 
