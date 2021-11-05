@@ -10,11 +10,25 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 28 Oct 2021 07:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 5 Nov 2021 22:47:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Basilisked</title>
+      <link>https://www.nis.fyi/glossary.html#basilisked</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#basilisked</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Fri, 5 Nov 2021 22:30:02 +0000</pubDate>
+      <description><![CDATA[Verb form of Basilisk. &quot;Now that you know you have a responsibility! (so you should avoid knowing)&quot; (rather than shoulder the responsibility, or be willing to lie about knowing). Examples: &quot;copenhagen…]]></description>
+      <content:encoded><![CDATA[<p>
+  Verb form of <a href="https://sinceriously.fyi/infohazardous-glossary/#basilisk">Basilisk</a>. "Now that you know you have a responsibility! (so you should avoid knowing)" (rather than shoulder the responsibility, or be willing to lie about knowing). Examples: "<a href="https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/">copenhagen morality</a>", "laws you're only culpable for if you know about them", a doctor telling you not to get an STD test for HPV because then you'll need to disclose if it's positive which the doctor says "isn't fair because HPV is so common".
+</p>
+
+<p>(credit to Ziz)</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Double Bind</title>
       <link>https://www.nis.fyi/glossary.html#double-bind</link>

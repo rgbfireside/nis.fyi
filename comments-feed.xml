@@ -10,11 +10,23 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 28 Oct 2021 07:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 5 Nov 2021 22:47:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Comment on Glossary: Basilisked by Nis</title>
+      <link>https://www.nis.fyi/glossary.html#comment-2021-11-05-003</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#comment-2021-11-05-003</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Fri, 5 Nov 2021 22:21:50 +0000</pubDate>
+      <description><![CDATA[A familiar exchange: Someone: &quot;But I know screaming in rage when I make a mistake isn&#39;t about harming the people around me because I do it even when alone&quot; - Me: &quot;But if you would only tell me that if…]]></description>
+      <content:encoded><![CDATA[<p>
+  A familiar exchange: Someone: "But I know screaming in rage when I make a mistake isn't about harming the people around me because I do it even when alone" - Me: "But if you would only tell me that if it was true, then doesn't it serve the purpose of you being able to say this now?". See: <a href="https://sinceriously.fyi/my-journey-to-the-dark-side/">dark side</a>, <a href="https://sinceriously.fyi/glossary/#chara">Chara</a>.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comment on Glossary: Atomic &quot;Justification&quot; For Evil by Nis</title>
       <link>https://www.nis.fyi/glossary.html#comment-2021-10-10-003</link>
