@@ -172,6 +172,9 @@ article {
   border: solid var(--bright-highlight-color) 1px !important;
 }
 
+/*
+Disabled, didn't like it
+
 a:is([href^="https://en.wikipedia.org"])::after {
   --image-size: var(--line-height);
   background-image: url("image/wikipedia.ico");
@@ -183,6 +186,7 @@ a:is([href^="https://en.wikipedia.org"])::after {
   margin-left: 3px;
   margin-bottom: -4px;
 }
+*/
 
 
 /* Headings */
