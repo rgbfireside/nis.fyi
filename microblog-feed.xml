@@ -7,10 +7,10 @@
 >
   <channel>
     <title>Nis's Microblog</title>
-    <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
-    <description><![CDATA[Nis's Blog]]></description>
-    <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sun, 7 Nov 2021 10:44:24 +0000</lastBuildDate>
+    <atom:link href="https://www.nis.fyi/microblog-feed.xml" rel="self" type="application/rss+xml" />
+    <description><![CDATA[Nis's Microblog]]></description>
+    <link>https://www.nis.fyi/microblog.html</link>
+    <lastBuildDate>Sun, 7 Nov 2021 11:04:29 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
