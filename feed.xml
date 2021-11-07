@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Fri, 5 Nov 2021 22:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 7 Nov 2021 09:17:00 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -275,9 +275,9 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Praxis: Always Do Your Best</title>
-      <link>https://www.nis.fyi/praxis.html#always-do-your-best</link>
-      <guid isPermaLink="true">https://www.nis.fyi/praxis.html#always-do-your-best</guid>
+      <title>Glossary: Always Do Your Best</title>
+      <link>https://www.nis.fyi/glossary.html#always-do-your-best</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#always-do-your-best</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Wed, 22 Sep 2021 06:12:48 +0000</pubDate>
       <description><![CDATA[You can&#39;t do any better by &#39;driving at half-speed&#39;.

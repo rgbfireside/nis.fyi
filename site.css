@@ -120,6 +120,19 @@ main > hr.article-separator {
   border-top: solid var(--hr-color) 10px;
 }
 
+footer.tags :is(p, ul) {
+  display: inline;
+}
+
+ul.tags {
+  list-style: none;
+  padding: 0;
+}
+
+ul.tags > li {
+  display: inline;
+}
+
 
 /* Default element styles */
 
