@@ -93,7 +93,7 @@ nav.main #page-history-link:target {
   background-color: var(--bright-highlight-color);
 }
 
-article > header img.avatar {
+header img.avatar {
   width: 50px;
   vertical-align: middle;
   margin-right: 1em;
@@ -323,4 +323,8 @@ main#evil-mail > article {
 
 main#evil-mail > article h2 {
   margin-top: 0;
+}
+
+main#microblog > hr.article-separator {
+  border-width: 1px;
 }
