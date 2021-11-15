@@ -177,7 +177,7 @@ pre {
 }
 
 article {
-  padding: 5px;
+  padding: 0 5px;
 }
 
 :target {
@@ -211,7 +211,7 @@ a:is([href^="https://en.wikipedia.org"])::after {
   --heading-vertical-margin: 20px;
 }
 
-/* No margin-top for first-heading */
+/* No margin-top for first heading */
 main > :is(h1, h2, h3, h4, h5, h6):first-child,
 main > header:first-child > :is(h1, h2, h3, h4, h5, h6):first-child,
 main > article:first-child > :is(h1, h2, h3, h4, h5, h6):first-child,
@@ -220,12 +220,6 @@ hr.article-separator + article > :is(h1, h2, h3, h4, h5, h6):first-child,
 hr.article-separator + article > header:first-child > :is(h1, h2, h3, h4, h5, h6):first-child
 {
   margin-top: 0;
-}
-
-main > :is(header, h1, h2, h3, h4, h5, h6):first-child + article > :is(h1, h2, h3, h4, h5, h6):first-child,
-main > :is(header, h1, h2, h3, h4, h5, h6):first-child + article > header:first-child > :is(h1, h2, h3, h4, h5, h6):first-child
-{
-  margin-top: 0; /* The <article> tag causes the margins not to merge; */
 }
 
 h1, h2, h3, h4, h5, h6 {
