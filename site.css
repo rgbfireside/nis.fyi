@@ -132,7 +132,7 @@ main > hr.article-separator {
   border-top: solid var(--hr-color) 10px;
 }
 
-footer.tags :is(p, ul) {
+.article-summary :is(p, ul) {
   display: inline;
 }
 
