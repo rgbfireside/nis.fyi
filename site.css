@@ -103,6 +103,18 @@ article > img {
   max-width: 100%;
 }
 
+.table-of-contents * {
+  --table-of-contents-margin: 0;
+}
+
+.table-of-contents > .intro {
+  margin-bottom: var(--table-of-contents-margin);
+}
+
+.table-of-contents > :is(ul, ol) {
+  margin-top: var(--table-of-contents-margin);
+}
+
 footer.comments {
   padding-left: 15px;
 }
@@ -280,7 +292,7 @@ footer.comments > h6:before {
 
 /* Library */
 
-article header, article header a.date:visited, article header a.date:link {
+:is(article, main) > header, :is(article, main) > header a.date:visited, :is(article, main) > header a.date:link {
   color: var(--muted-color);
   text-decoration: none;
 }
