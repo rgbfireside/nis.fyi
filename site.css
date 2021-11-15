@@ -115,6 +115,10 @@ article > img {
   margin-top: var(--table-of-contents-margin);
 }
 
+.table-of-contents :is(ul, ol) {
+  list-style: none;
+}
+
 footer.comments {
   padding-left: 15px;
 }
