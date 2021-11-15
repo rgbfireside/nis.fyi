@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Mon, 15 Nov 2021 21:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 21:48:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -1773,7 +1773,7 @@ That's what evil people have as a soul.</pre></p>
       <li>suffering</li>
     </ul>
   </li>
-  <li>"I want bad things so I can spread them to others" (see <span class="todo">TODO: stax</span>)
+  <li>"I want bad things so I can spread them to others" (see <a href="https://www.nis.fyi/glossary.html">stax</a>)
     <ul>
       <li>masochism</li>
     </ul>
