@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Mon, 15 Nov 2021 21:53:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 22:04:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -336,11 +336,13 @@
     </section>
 
     <blockquote>
-      <p>Ever noticed all evil undead types, with the exception of liches and death knights, are frequently portrayed as contagious via their standard attacks?<br />
-I.e. get bitten by a zombie -&gt; turn into a zombie.<br />
-get bitten by a ghoul -&gt; turn into a ghoul<br />
-get hit by a mummy -&gt; contract mummy rot -&gt; die or be embalmed into a mummy<br />
-get bit by a vampire -&gt; turn into a vampire (or sometimes lesser undead types)</p>
+      <p>
+        Ever noticed all evil undead types, with the exception of liches and death knights, are frequently portrayed as contagious via their standard attacks?<br />
+        I.e. get bitten by a zombie -&gt; turn into a zombie.<br />
+        get bitten by a ghoul -&gt; turn into a ghoul<br />
+        get hit by a mummy -&gt; contract mummy rot -&gt; die or be embalmed into a mummy<br />
+        get bit by a vampire -&gt; turn into a vampire (or sometimes lesser undead types)
+      </p>
 
       <p>That sounds like a statement of <a href="https://sinceriously.fyi/glossary#canceferrence">canceferrence</a> to me.</p>
 
@@ -423,7 +425,7 @@ get bit by a vampire -&gt; turn into a vampire (or sometimes lesser undead types
     </p>
 
     <blockquote>
-      <p><pre>
+      <pre>
 First they came for the socialists, and I did not speak out—
    Because I was not a socialist.
 
@@ -434,7 +436,7 @@ Then they came for the Jews, and I did not speak out—
    Because I was not a Jew.
 
 Then they came for me—and there was no one left to speak for me.
-</pre></p>
+</pre>
       <cite><a href="https://en.wikipedia.org/wiki/First_they_came_...">Martin Niemöller</a></cite>
     </blockquote>
 
