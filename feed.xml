@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 16 Nov 2021 09:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 09:25:39 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -1249,7 +1249,7 @@ Examples:
   When would I even use the word "suffering"? "But what about my suffering"? Sounds like a <a href="https://sinceriously.fyi/glossary/#troll-line-in-the-first-post">troll line</a>. "What about the suffering of <a href="https://www.dominionmovement.com/">factory farmed animals</a>"? I'd rather say "What about the mass murder, slavery, and rape of factory farmed animals?". In the context of "<a href="https://www.nis.fyi/post/genesis-troll-line.html#morality-troll-line">morality</a>", the only thing the word "suffering" seems to add over a direct description of the harm causing the "suffering", is the resulting ease of arguing for the <a href="https://sinceriously.fyi/vampires-and-more-undeath/">death knight</a> position of "<a href="#suffering-ref-negative-utilitarianism">(1) negative utiltiarianism</a>" justifying universal malice to destroy the world faster, or the <a href="https://sinceriously.fyi/aliveness">zombie</a> position of "humane slaughter" via sedating people before killing them, as if the solution to all wrongs, even regardless of their nature, is numbness.
 </p>
 
-<p>
+<p id="suffering-must-not-happen">
   Socially, the word suffering is often used to negotiate what "must not happen", begging the question of what would happen if it did <span class="todo">TODO: link this to something about evil coordination connected to entropic exit scamming</span>.
 </p>
 
