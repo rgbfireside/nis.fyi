@@ -205,7 +205,8 @@ article {
   border: solid var(--bright-highlight-color) 1px !important;
 }
 
-.comment:target > header {
+.comment:target > header,
+:is(article, main).comment:target > header address .intro {
   color: var(--bright-highlight-color);
 }
 
