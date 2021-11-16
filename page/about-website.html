@@ -5,8 +5,13 @@
 
     <title>About Website</title>
 
+    <meta name="theme-color" value="black" />
+    <meta name="color-scheme" value="dark" />
     <link rel="stylesheet" href="../site.css" />
     <link rel="shortcut icon" href="../avatar/nis.png" />
+    <meta name="author" content="Nis" />
+    <link rel="author" href="mailto:../nis@nis.fyi" />
+    <link rel="author" href="../page/about-nis.html" />
   </head>
 
   <body>
@@ -51,21 +56,23 @@
         <h1>About Website</h1>
         <header>
           <div class="article-summary">
-            <p>
-              by <span class="author"><a href="../page/about-nis.html"><img class="avatar" src="../avatar/nis.png" alt="Nis's avatar: 'sharp interlocking red fibers net'" title="sharp interlocking red fibers net" />Nis</a></span>
-              on <span class="date">2021-08-01</span>
-            </p>
+            <div class="single-line">
+              <address class="author"><span class="intro" aria-role="note">by </span><a rel="author" href="../page/about-nis.html"><img class="avatar" src="../avatar/nis.png" alt="Nis's avatar: 'sharp interlocking red fibers net'" title="sharp interlocking red fibers net" />Nis</a></address>
+              <p><span class="intro">on </span><time>2021-08-01</time></p>
+            </div>
           </div>
-          <details class="table-of-contents" open="open">
-            <summary class="intro">
-              Table of Contents
-            </summary>
-            <ul>
-              <li><a href="#about-website">About Website</a><ul>
+          <nav>
+            <details id="table-of-contents" class="table-of-contents" open="open">
+              <summary class="intro">
+                Table of Contents
+              </summary>
+              <ol>
+              <li><a href="#about-website">About Website</a><ol>
                 <li><a href="#updates-conventions">Updates Coventions</a></li>
-              </ul></li>
-            </ul>
-          </details>
+              </ol></li>
+            </ol>
+            </details>
+          </nav>
         </header>
         <p>HTML copy with history available at <a href="https://github.com/nis-fyi/nis.fyi">https://github.com/nis-fyi/nis.fyi</a>.</p>
 

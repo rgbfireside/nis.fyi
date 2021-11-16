@@ -136,7 +136,7 @@ main > hr.article-separator {
   border-top: solid var(--hr-color) 10px;
 }
 
-.article-summary :is(p, ul) {
+.single-line * {
   display: inline;
 }
 
@@ -147,6 +147,10 @@ ul.tags {
 
 ul.tags > li {
   display: inline;
+}
+
+address {
+  font-style: normal; /* Override italic */
 }
 
 
@@ -182,6 +186,19 @@ pre {
 
 article {
   padding: 0 5px;
+}
+
+:is(article, main) > header {
+  color: var(--muted-color);
+  text-decoration: none;
+}
+
+:is(article, main) > header address {
+  color: var(--text-color)
+}
+
+:is(article, main) > header address .intro {
+  color: var(--muted-color);
 }
 
 :target {
@@ -290,11 +307,6 @@ footer.comments > h6:before {
 
 /* Library */
 
-:is(article, main) > header, :is(article, main) > header a.date:visited, :is(article, main) > header a.date:link {
-  color: var(--muted-color);
-  text-decoration: none;
-}
-
 .todo {
   background-color: var(--highlight-color);
   color: black;
@@ -304,10 +316,6 @@ footer.comments > h6:before {
 
 .muted {
   color: var(--muted-color);
-}
-
-.author {
-  color: var(--text-color)
 }
 
 .broken-link {
