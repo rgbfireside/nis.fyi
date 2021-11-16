@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 16 Nov 2021 08:56:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 09:02:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -1138,6 +1138,7 @@ Examples:
   <li id="cash-out"><a href="https://www.nis.fyi/list/jargon.html#cash-out">Cash Out</a>: <a href="https://www.nis.fyi/list/jargon.html#terminus">Terminus</a> of a conserved quantity.</li>
   <li id="reification"><a href="https://www.nis.fyi/list/jargon.html#reification">Reification</a>: See <a href="https://en.wikipedia.org/wiki/Reification_(fallacy)">Reification (fallacy)</a>.</li>
   <li id="tails-come-apart"><a href="https://www.nis.fyi/list/jargon.html#tails-come-apart">Tails Come Apart</a>: See <a href="https://www.lesswrong.com/posts/dC7mP5nSwvpL65Qu5/why-the-tails-come-apart">this lesswrong post</a>.</li>
+  <li id="goodhart"><a href="https://www.nis.fyi/list/jargon.html#goodhart">Goodhart</a>: <a href="https://en.wikipedia.org/wiki/Goodhart%27s_law">Goodhart's law</a> (as a verb)</li>
 </ul>
 
 <section id="grammar">
@@ -1164,6 +1165,7 @@ Examples:
     <li id="fundamental"><a href="https://www.nis.fyi/list/jargon.html#fundamental">Fundamental</a>: A take on '<a href="https://www.nis.fyi/list/jargon.html#radical">radical</a>', approaching it from "like learning the basics". The word I used as a kid before I knew of the word 'radical'. Feels <a href="https://sinceriously.fyi/glossary#khala">khala</a>-tainted.</li>
     <li id="essential"><a href="https://www.nis.fyi/list/jargon.html#essential">Essential</a>: See <a href="https://plato.stanford.edu/entries/intrinsic-extrinsic/">intrinsic vs extrinsic properties</a><ul>
       <li>Feels like an inside-out concept of '<a href="#radical">radical</a>', although I do like the word 'extension'.</li>
+      <li>Update: I guess I do use this word in the context of giving a central example of something</li>
     </ul></li>
     <li id="mercy"><a href="https://sinceriously.fyi/choices-made-long-ago/#comment-3372"><q>mercy forgiveness redemption and indulgence […] you can add “compromise” […] on your conceptual shitlist.</q></a> - Ziz</li>
     <li id="broken-placeholder-terms">See: <a href="https://www.nis.fyi/list/living-reference.html#broken-placeholder-term">Broken Placeholder Terms</a></li>
