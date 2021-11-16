@@ -10,11 +10,28 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Mon, 15 Nov 2021 22:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 00:17:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Boxed</title>
+      <link>https://www.nis.fyi/glossary.html#boxed</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#boxed</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Tue, 16 Nov 2021 00:17:07 +0000</pubDate>
+      <description><![CDATA[Pejoratively means something in conceptual quotation marks when it shouldn&#39;t be.
+ In programming, boxing refers to, conceptually speaking, &quot;wrapping&quot; a value in a type that causes it to be referred to…]]></description>
+      <content:encoded><![CDATA[<p>
+  Pejoratively means something in conceptual <a href="https://sinceriously.fyi/my-journey-to-the-dark-side/">quotation marks</a> when it shouldn't be.
+</p>
+
+<p>
+  In <a href="https://downloads.haskell.org/~ghc/6.12.1/docs/html/users_guide/primitives.html">programming</a>, boxing refers to, conceptually speaking, "wrapping" a value in a <a href="https://doc.rust-lang.org/std/boxed/struct.Box.html">type</a> that causes it to be <a href="https://www.cs.fsu.edu/~myers/c++/notes/references.html">referred</a> to indirectly using a pointer, rather than including the value inline, e.g. to avoid cost of copying of contents of the value when using it in multiple places. But, this has an overhead cost, sometimes blocking optimizations.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Killing Evil &quot;People&quot;</title>
       <link>https://www.nis.fyi/post/killing-evil-people.html</link>
