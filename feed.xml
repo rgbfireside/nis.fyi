@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 16 Nov 2021 03:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 04:05:35 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -1616,8 +1616,8 @@ That's what evil people have as a soul.</pre></p>
     </item>
     <item>
       <title>Caring / Taking Others into Account</title>
-      <link>https://www.nis.fyi/post/taking-others-into-account.html</link>
-      <guid isPermaLink="true">https://www.nis.fyi/post/taking-others-into-account.html</guid>
+      <link>https://www.nis.fyi/post/caring.html</link>
+      <guid isPermaLink="true">https://www.nis.fyi/post/caring.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Sun, 1 Aug 2021 03:24:12 +0000</pubDate>
       <description><![CDATA[Taking other people into account in order to care for them requires knowing what they might want without having to ask them. Caring for people requires empathy, i.e. imagining what people might want in…]]></description>
