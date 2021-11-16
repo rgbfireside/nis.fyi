@@ -54,7 +54,7 @@
       <script type="text/javascript">
         if (location.hash != '') {
           var redirectLink = document.getElementById("redirect-link");
-          redirectLink.setAttribute("href", redirectLink.getAttribute("href") + (location.hash !== '' ? location.hash : ''));
+          redirectLink.setAttribute("href", redirectLink.getAttribute("href") + location.hash);
         }
       </script>
     </main>
