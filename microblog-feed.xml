@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/microblog-feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Microblog]]></description>
     <link>https://www.nis.fyi/microblog.html</link>
-    <lastBuildDate>Tue, 16 Nov 2021 00:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 03:32:25 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -85,9 +85,10 @@ I guess nobody is suggesting parallel construction as a solution, because that w
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-09-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Thu, 9 Sep 2021 05:06:47 +0000</pubDate>
-      <description><![CDATA[&quot;in that I&quot; vs &quot;to the extent that I&quot;]]></description>
-      <content:encoded><![CDATA[<p>"in that I" vs "to the extent that I" <- I like "in that I"
-</p>]]></content:encoded>
+      <description><![CDATA[&quot;in that I&quot; vs &quot;to the extent that I&quot; ← I like &quot;in that I&quot;]]></description>
+      <content:encoded><![CDATA[<p>"in that I" vs "to the extent that I" ← I like "in that I"
+</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
