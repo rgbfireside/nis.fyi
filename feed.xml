@@ -10,11 +10,52 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 16 Nov 2021 09:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 09:11:23 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Pity Inversion of Justice</title>
+      <link>https://www.nis.fyi/glossary.html#pity-inversion-of-justice</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#pity-inversion-of-justice</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Tue, 16 Nov 2021 09:03:26 +0000</pubDate>
+      <description><![CDATA[My characterization:
+Reasons why evil people deserve more stuff:
+subjective utility: evil people identify as having worse suffering
+democracy: there are more evil people
+authority: the government is ev…]]></description>
+      <content:encoded><![CDATA[<p>
+  My characterization:
+</p>
+
+<blockquote>
+<pre>Reasons why evil people deserve more stuff:
+subjective utility: evil people identify as having worse suffering
+democracy: there are more evil people
+authority: the government is evil
+underdog status: evil is destined to lose
+commitment: evil people make promises while good people just go around doing whatever they want
+skin in the game: evil people are mortal, whereas good people will be fine in the long run anyway with their absolute determination to return from the dead
+less demanding: death is ok for evil people
+polite: want to put flowers on everything (<span class="todo">TODO: define "flower"</span>)
+cancer: cancer</pre>
+</blockquote>
+
+<p>
+  <a href="https://sinceriously.fyi/glossary/#comment-2883">Morally-inverted anti-co-nurembergism</a> is a central example.
+</p>
+
+<p>
+  "We psychdied because you blamed us, that's where it all went wrong" - then <a href="https://sinceriously.fyi/intersex-brains-and-conceptual-warfare/#comment-5079">who killed the world?</a>
+</p>
+
+<p>
+  Also corresponds to evil "people" only "feeling safe" if you visibly do bad things to "prove you aren't judgemental".
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Boxed</title>
       <link>https://www.nis.fyi/glossary.html#boxed</link>
@@ -892,6 +933,7 @@ Then they came for me—and there was no one left to speak for me.
         <li>"<a href="https://twitter.com/search?q=%22hurt%20people%20hurt%20people%22&amp;src=typed_query">hurt people hurt people</a>"</li>
       </ul></li>
       <li>"<a href="https://sinceriously.fyi/glossary/#comment-1317">I'm making it better by confessing!</a>"</li>
+      <li><a href="https://www.nis.fyi/glossary.html#pity-inversion-of-justice">Pity Inversion of Justice</a></li>
     </ul></li>
   </ul></li>
 </ul>
