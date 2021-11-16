@@ -211,6 +211,7 @@ article {
 
 mark {
   background-color: var(--bright-highlight-color);
+  color: black;
 }
 
 /*
