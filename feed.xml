@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 18 Nov 2021 13:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 13:23:18 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -1327,6 +1327,7 @@ Examples:
       <li>People<ul>
         <li>Animals are people</li>
       </ul></li>
+      <li>Truth</li>
     </ul></li>
   </ul>
 </section>
@@ -1354,7 +1355,7 @@ Like self-fulfilling prophecy is choice from the outside.
   </blockquote>
 
   <p>
-    Related concepts: <a href="https://sinceriously.fyi/glossary/#outside-view-disease">Outside View</a>, <a href="https://sinceriously.fyi/glossary/#frame-of-puppets">Frame of Puppets</a>, <a href="https://sinceriously.fyi/false-faces/">False Faces</a>, <a href="https://sinceriously.fyi/glossary#saidar">Saidar</a>.
+    Related concepts: <a href="https://sinceriously.fyi/glossary/#outside-view-disease">Outside View</a>, <a href="https://sinceriously.fyi/glossary/#frame-of-puppets">Frame of Puppets</a>, <a href="https://sinceriously.fyi/false-faces/">False Faces</a>, Saidar (<span class="todo">TODO: link</span>).
   </p>
 
   <ul>
@@ -1363,6 +1364,7 @@ Like self-fulfilling prophecy is choice from the outside.
     <li>"<a href="https://sinceriously.fyi/glossary/#nongood">Nongood</a>" (vs <a href="https://www.nis.fyi/list/living-reference.html#dying-term">Evil</a> and <a href="https://sinceriously.fyi/spectral-sight-and-good/#comment-3322">Living</a>)</li>
     <li>"<a href="https://sinceriously.fyi/self-blackmail/">Akrasia</a>" (vs Choice under "duress")</li>
     <li>"<a href="https://www.nis.fyi/glossary.html#suffering">Suffering</a>" (vs Bad/Wrong)</li>
+    <li>"<a href="https://sinceriously.fyi/glossary/#burden-karma">Burden "Karma"</a> (vs responsibility)</li>
   </ul>
 </section>
 
