@@ -10,11 +10,23 @@
     <atom:link href="https://www.nis.fyi/comments-feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog Comments]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 18 Nov 2021 13:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 22:08:32 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Reply to Nis on Cartesian Convexity by Nis</title>
+      <link>https://www.nis.fyi/post/cartesian-convexity.html#comment-2021-11-18-001</link>
+      <guid isPermaLink="true">https://www.nis.fyi/post/cartesian-convexity.html#comment-2021-11-18-001</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Thu, 18 Nov 2021 22:08:32 +0000</pubDate>
+      <description><![CDATA[No rock to stand on (i.e. convexity) corresponds to &quot;you can&#39;t derive an ought from an is&quot;.]]></description>
+      <content:encoded><![CDATA[<p>
+  No rock to stand on (i.e. convexity) corresponds to "<a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem">you can't derive an ought from an is</a>".
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comment on Glossary: Territory by Nis</title>
       <link>https://www.nis.fyi/glossary.html#comment-2021-10-19-001</link>
