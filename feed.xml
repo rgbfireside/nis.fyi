@@ -10,11 +10,28 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Thu, 18 Nov 2021 22:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Nov 2021 08:56:57 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Sentimentality</title>
+      <link>https://www.nis.fyi/glossary.html#sentimentality</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#sentimentality</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sat, 20 Nov 2021 08:56:57 +0000</pubDate>
+      <description><![CDATA[late 14c., sentement, &quot;personal experience, one&#39;s own feeling,&quot; from Old French sentement (12c.), from Medieval Latin sentimentum &quot;feeling, affection, opinion,&quot; from Latin sentire &quot;to feel&quot; (see sense…]]></description>
+      <content:encoded><![CDATA[<blockquote>
+  <p>late 14c., sentement, "personal experience, one's own feeling," from Old French sentement (12c.), from Medieval Latin sentimentum "feeling, affection, opinion," from Latin sentire "to feel" (see sense (n.)).</p>
+  <cite><a href="https://www.etymonline.com/word/sentiment">Etymonline: Sentiment</a></cite>
+</blockquote>
+
+<p>
+  The corrupted word for the class of concerns which includes <a href="https://sinceriously.fyi/glossary/#give-blood">earth and water</a>, <a href="https://www.nis.fyi/glossary.html#exporting-yourself" class="broken-link">Exporting Yourself</a>, preserving places and objects which spur memories, and in general caring about things that are a part of your history or roots in ways you aren't justifying the purpose of. Pejoratively implies all such concerns are <a href="https://www.nis.fyi/list/jargon.html#pica">pica</a>, or at least <a href="https://sinceriously.fyi/glossary/#complementary-loss">complementary loss</a>.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Pity Inversion of Justice</title>
       <link>https://www.nis.fyi/glossary.html#pity-inversion-of-justice</link>
@@ -1182,6 +1199,7 @@ Examples:
   <li id="tails-come-apart"><a href="https://www.nis.fyi/list/jargon.html#tails-come-apart">Tails Come Apart</a>: See <a href="https://www.lesswrong.com/posts/dC7mP5nSwvpL65Qu5/why-the-tails-come-apart">this lesswrong post</a>.</li>
   <li id="goodhart"><a href="https://www.nis.fyi/list/jargon.html#goodhart">Goodhart</a>: <a href="https://en.wikipedia.org/wiki/Goodhart%27s_law">Goodhart's law</a> (as a verb)</li>
   <li id="circumstantial"><a href="https://www.nis.fyi/list/jargon.html#circumstantial">Circumstantial</a>: Commonly used to mean the counterpart to <a href="https://www.nis.fyi/list/jargon.html#apriori">apriori</a> (another antonym is 'contingent', meaning 'contingent on circumstance') or <a href="https://sinceriously.fyi/glossary/#fictive">fictive</a> (the counterpart of 'fictive learning' is '<a href="https://www.nis.fyi/list/cancer-terms.html">reinforcement learning</a>' e.g. 'reinforcement learning relying on the luck of circumstance')</li>
+  <li id="pica"><a href="https://www.nis.fyi/list/jargon.html#pica">Pica</a>: See <a href="https://www.lesswrong.com/tag/pica">Lesswrong: Pica</a></li>
 </ul>
 
 <section id="grammar">
