@@ -215,6 +215,10 @@ mark {
   color: black;
 }
 
+details > summary {
+  cursor: pointer;
+}
+
 /*
 Disabled, didn't like it
 

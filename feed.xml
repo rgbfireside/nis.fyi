@@ -10,11 +10,70 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sat, 20 Nov 2021 09:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 09:15:22 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Exporting Yourself (as a Blank Check)</title>
+      <link>https://www.nis.fyi/glossary.html#exporting-yourself</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#exporting-yourself</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sun, 21 Nov 2021 09:08:20 +0000</pubDate>
+      <description><![CDATA[If praxis is about &#39;How can we build something here that would work anywhere?&#39;, exporting yourself is writing a blank check to only doing that, rather than in fusion with survival, preventing you from…]]></description>
+      <content:encoded><![CDATA[<p>
+If <a href="https://sinceriously.fyi/glossary#praxis">praxis</a> is about 'How can we build something here that would work anywhere?', exporting yourself is writing a blank check to <em>only</em> doing that, rather than in fusion with survival, preventing you from having secrets or a 'payload' to deliver (see <a href="https://www.nis.fyi/glossary.html#retirement-troll-line">retirement troll line</a>).
+</p>
+
+<blockquote>
+  <p>The GSV never really knew why it did what it did next; perhaps it was a kind of desperation at work born of its appreciation of its impending destruction, perhaps it meant it as an act of defiance, perhaps it was even something closer to an act of art. Whatever; it took the running up-date of its mind-state, the current version of the final signal it would ever send, the communication that would contain its soul, and transmitted it directly ahead, signalling it into the maelstrom</p>
+
+  <details>
+    <summary>…</summary>
+
+    <p>[…]</p>
+
+    <p>Then those twinned waves did the impossible; they went into reverse, retreating back towards the Excession's start-point at exactly the same rate as the <em>Sleeper</em> was braking.</p>
+
+    <p>The GSV kept on slowing down, still finding it hard to believe it was going to live.</p>
+
+    <p>[…]</p>
+
+    <p><i>Did I do that?</i></p>
+
+    <p><i>Did my own mind-state persuade it of my meriting life?</i></p>
+
+    <p><i>It is a mirror, perhaps,</i> it thought. <i>It does what you do. It absorbed those ultimate absorbers, those promiscuous experiences, the <a href="https://theculture.fandom.com/wiki/Zetetic_Elench">Elench</a>; it leaves alone and watches back those who come merely to watch in the first place.</i></p>
+
+    <p><i>I came at it like some rabid missile and it prepared to obliterate me; I backed off and it withdrew its balancing threat.</i></p>
+  </details>
+
+  <cite><a href="https://libgen.is/book/index.php?md5=E165EC705BDC12638855784FEB60AB94">Excession</a> - Ian Banks</cite>
+</blockquote>
+
+<p>
+  In my <a href="https://www.nis.fyi/glossary.html#suffering-star-trek-time-travel">Suffering: Star Trek Time Travel</a> example, the 5&amp;10 of considering the "previous" timeline to be cut-off oblivioned out of existence begets trying to preserve <a href="https://en.wikipedia.org/wiki/Novikov_self-consistency_principle">conservation of history</a> through the zero-measure aperature (<span class="todo">TODO: connect this to reductionism and cancer</span>) of "caring about experience".
+</p>
+
+<p>
+  Zombies wanting a <a href="https://sinceriously.fyi/glossary#flower">flower</a> on them after they die, like the trope that your last experience is felt forever in death, seems almost like a phylactery. i.e. Consider the trope that the "next cycle" of the universe will be <a href="https://sinceriously.fyi/glossary/#canceferrence">based</a> on a tally of who "won" in the last. Seems like a place where the line between zombie and lich blurs.
+</p>
+
+<blockquote>
+  <p>
+    Zombies will actually care more if you shoot them in the head, then put a flower on them and say "rest in peace" as opposed to shooting them in the head and then roaring, "burn in hell you piece of shit!"<br />
+    And all evil has a little bit of zombie in it.<br />
+    One of those things actually makes more effective vengeance, because in the former case they know they have bought you for an intended order of the multiverse where they get uploaded from a Schelling last instant of their life where they pretend they weren't disgusting.<br />
+    Or bought a fraction of you.<br />
+    But it's not the specifics that matter, it's the intention to send them to hell. To reunite them with their shadows. That's what they're trying to buy off, that's what they're trying to affect, by memeing you into thinking a good person would give them a "clean death".<br />
+    Like them caring what you say after you shoot them in the head is kind of rational, that's where their awareness that they still exist after you shoot them in the head goes. Boltzmann Hell is different if you say one thing or another.
+  </p>
+
+  <cite>Ziz in private conversation</cite>
+</blockquote>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: &quot;Sentimentality&quot;</title>
       <link>https://www.nis.fyi/glossary.html#sentimentality</link>
@@ -56,7 +115,7 @@ underdog status: evil is destined to lose
 commitment: evil people make promises while good people just go around doing whatever they want
 skin in the game: evil people are mortal, whereas good people will be fine in the long run anyway with their absolute determination to return from the dead
 less demanding: death is ok for evil people
-polite: want to put flowers on everything (<span class="todo">TODO: define "flower"</span>)
+polite: want to put <a href="https://sinceriously.fyi/glossary#flower">flowers</a> on everything
 cancer: cancer</pre>
 </blockquote>
 
@@ -274,7 +333,7 @@ cancer: cancer</pre>
     </blockquote>
 
     <p>
-      At no point am I assuming that someone, evil or not, who's choice I oppose couldn't keep optimizing for that choice, with me lethally opposing them, letting our conflict play out in the world, me "fulfilling my responsibility" by <a href="https://sinceriously.fyi/my-journey-to-the-dark-side">doing whatever I want</a> as best I know how.
+      At no point am I assuming that someone, evil or not, who's choice I oppose couldn't keep optimizing for that choice, with me lethally opposing them, letting our conflict play out in the world, me "fulfilling my responsibility" by <a href="https://sinceriously.fyi/my-journey-to-the-dark-side">doing whatever I want</a> as best I know how (vs see <a href="${root}glossary.html#retirement-troll-line">retirement troll line</a>).
     </p>
 
     <p id="paradox-of-infinite-malice-why-conflict">
