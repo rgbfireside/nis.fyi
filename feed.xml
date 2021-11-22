@@ -10,11 +10,32 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sun, 21 Nov 2021 09:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 07:57:50 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Monte Carlo [Method]</title>
+      <link>https://www.nis.fyi/glossary.html#monte-carlo-method</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#monte-carlo-method</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 07:53:56 +0000</pubDate>
+      <description><![CDATA[&#39;Trying it is faster than thinking whether it will work or finding a closed form solution, and the more you just try things the faster you get.&#39;
+ Named after the concept in algorithm design. When I was…]]></description>
+      <content:encoded><![CDATA[<p>
+  'Trying it is faster than thinking whether it will work or finding a <a href="https://en.wikipedia.org/wiki/Closed-form_expression">closed form solution</a>, and the more you just try things the faster you get.'
+</p>
+
+<p>
+  Named after the <a href="https://en.wikipedia.org/wiki/Monte_Carlo_method">concept in algorithm design</a>. When I was learning ruby and wondering what an expression would do, people would say "just run it (in the REPL) and see!".
+</p>
+
+<p>
+  Degenerate form looks like a <a href="https://www.youtube.com/watch?v=uWwUpEY4c8o">mathematical hydra</a> (credit Ziz for 'mathematical hydra' and video).
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Exporting Yourself (as a Blank Check)</title>
       <link>https://www.nis.fyi/glossary.html#exporting-yourself</link>
