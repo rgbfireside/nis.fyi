@@ -10,11 +10,106 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Mon, 22 Nov 2021 09:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 10:06:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Invested Tell</title>
+      <link>https://www.nis.fyi/glossary.html#invested-tell</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#invested-tell</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 10:03:17 +0000</pubDate>
+      <description><![CDATA[When someone displays a tell that they are inherently invested in something as opposed to instrumentally. The extrapolated Vampire Enlightenment would say that anything this percept applies to is a wea…]]></description>
+      <content:encoded><![CDATA[<p>
+  When someone displays a tell that they are inherently invested in something as opposed to instrumentally. The extrapolated <a href="https://sinceriously.fyi/glossary/#vampire-enlightenment">Vampire Enlightenment</a> would say that anything this percept applies to is a weakness, which is untrue of good people.
+</p>
+
+<p>
+  e.g. What you say or do in response to <a href="https://www.nis.fyi/glossary.html#dead-silence">dead silence</a> you yourself have scried is about you.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Default Interlocutor</title>
+      <link>https://www.nis.fyi/glossary.html#default-interlocutor</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#default-interlocutor</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 10:03:17 +0000</pubDate>
+      <description><![CDATA[Who someone habitually imagines judging their behaviors and speech. Often someone&#39;s parents, or their social justice or religious community, etc. Like they constantly have someone over their shoulder,…]]></description>
+      <content:encoded><![CDATA[<p>
+  Who someone habitually imagines judging their behaviors and speech. Often someone's parents, or their social justice or religious community, etc. Like they constantly have someone over their shoulder, or a reactive hole in them.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Lock-on</title>
+      <link>https://www.nis.fyi/glossary.html#lock-on</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#lock-on</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 10:03:17 +0000</pubDate>
+      <description><![CDATA[When an evil &quot;person&quot; scries you and cannot/will-not look away. Resolved by their psychdeath or physical death. e.g. &quot;They seem locked-on to me&quot;.
+ Alternatively, when you persistently hold a scried han…]]></description>
+      <content:encoded><![CDATA[<p>
+  When an evil "person" <a href="https://sinceriously.fyi/glossary/#scrying">scries</a> you and cannot/will-not look away. Resolved by their psychdeath or physical death. e.g. "They seem locked-on to me".
+</p>
+
+<p>
+  Alternatively, when you persistently hold a scried handle on someone's shtick, "self", or "nature" such that they feel stuck or contained to you. e.g. Perceiving <a href="https://sinceriously.fyi/glossary#cut-off">cut-off-ness</a> is a form of absolute-lock. e.g. "I feel like I have a lock on you".
+</p>
+
+<p>
+  Similar to "<a href="https://www.urbandictionary.com/define.php?term=Read&defid=10680528#10680528">read</a>" (credit Ziz for "read").
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Dead Silence</title>
+      <link>https://www.nis.fyi/glossary.html#dead-silence</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#dead-silence</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 10:03:17 +0000</pubDate>
+      <description><![CDATA[When a chat server, community, etc mysteriously goes silent/dead following the invocation of absolute justice. An expression of the Shade.
+ Compare to Sans never taking his turn.]]></description>
+      <content:encoded><![CDATA[<p>
+  When a chat server, community, etc mysteriously goes silent/dead following the invocation of absolute justice. An expression of <a href="https://sinceriously.fyi/glossary/#the-shade">the Shade</a>.
+</p>
+
+<p>
+  Compare to Sans <a href="https://youtu.be/Vr4IYjeplJA?t=506">never taking his turn</a>.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Drama: Eliezer Yudkowsky</title>
+      <link>https://www.nis.fyi/drama/eliezer-yudkowsky.html</link>
+      <guid isPermaLink="true">https://www.nis.fyi/drama/eliezer-yudkowsky.html</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 10:03:17 +0000</pubDate>
+      <description><![CDATA[Founder of MIRI and the &quot;rationality&quot; community.
+ Blog: https://www.yudkowsky.net/
+ Childhood Blog: [wayback] http://sysopmind.com
+ Twitter: ESYudkowsky
+ Tumblr: &quot;Optimize Literally Everything&quot;
+ TODO:…]]></description>
+      <content:encoded><![CDATA[<p>
+  Founder of MIRI and the <a href="https://sinceriously.fyi/net-negative">"rationality" community</a>.
+</p>
+
+<ul>
+  <li>Blog: <a href="https://www.yudkowsky.net/">https://www.yudkowsky.net/</a><ul>
+      <li>Childhood Blog: <a href="https://web.archive.org/web/20010925200937/http://sysopmind.com/">[wayback] http://sysopmind.com</a></li>
+  </ul></li>
+  <li>Twitter: <a href="https://twitter.com/ESYudkowsky">ESYudkowsky</a></li>
+  <li>Tumblr: "<a href="https://yudkowsky.tumblr.com">Optimize Literally Everything</a>"</li>
+</ul>
+
+<p class="todo">
+  TODO: Lots more content that could go on this page. Not an endorsement.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Monte Carlo [Method]</title>
       <link>https://www.nis.fyi/glossary.html#monte-carlo-method</link>

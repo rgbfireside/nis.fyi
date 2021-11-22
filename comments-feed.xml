@@ -10,11 +10,28 @@
     <atom:link href="https://www.nis.fyi/comments-feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog Comments]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Mon, 22 Nov 2021 09:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 10:06:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Comment on Drama: Eliezer Yudkowsky by Nis</title>
+      <link>https://www.nis.fyi/drama/eliezer-yudkowsky.html#comment-2021-11-22-004</link>
+      <guid isPermaLink="true">https://www.nis.fyi/drama/eliezer-yudkowsky.html#comment-2021-11-22-004</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 10:03:17 +0000</pubDate>
+      <description><![CDATA[Yudkowsky is invested in &quot;playful&quot; (as in &quot;even evil people still have a sense of humor&quot;) storytelling as a response to dead silence. e.g. See this Star Wars microfic.
+ Seems like an expression of how…]]></description>
+      <content:encoded><![CDATA[<p>
+  Yudkowsky is invested in "playful" (as in "even evil people still have a sense of humor") storytelling as a response to <a href="https://www.nis.fyi/glossary.html#dead-silence">dead silence</a>. e.g. See this <a href="https://yudkowsky.tumblr.com/post/181121498760/v-hey-siddy-guess-what-happened-with-that-luke">Star Wars microfic</a>.
+</p>
+
+<p>
+  Seems like an expression of how he's endlessly <a href="https://www.nis.fyi/glossary.html#lock-on">stuck</a> on the concept of "moral patiency" wrt zombies playing utility monsters <span class="todo">TODO: link</span>. Like his <a href="https://www.nis.fyi/glossary.html#default-interlocutor">default interlocutor</a> needs to be convinced of what's reasonable and can be swayed by <a href="https://sinceriously.fyi/glossary#give-blood">paying tribute</a> via such a simple <a href="https://www.nis.fyi/list/jargon.html#goodhart">goodharting</a>. And you can <a href="https://www.nis.fyi/glossary.html#invested-tell">tell it's not just his ruse</a>.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Reply to Nis on Cartesian Convexity by Nis</title>
       <link>https://www.nis.fyi/post/cartesian-convexity.html#comment-2021-11-18-001</link>

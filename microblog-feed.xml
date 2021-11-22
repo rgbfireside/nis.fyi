@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/microblog-feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Microblog]]></description>
     <link>https://www.nis.fyi/microblog.html</link>
-    <lastBuildDate>Mon, 22 Nov 2021 09:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 10:06:07 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
