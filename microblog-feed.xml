@@ -10,13 +10,13 @@
     <atom:link href="https://www.nis.fyi/microblog-feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Microblog]]></description>
     <link>https://www.nis.fyi/microblog.html</link>
-    <lastBuildDate>Mon, 22 Nov 2021 10:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 20:52:43 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
     <item>
-      <title></title>
+      <title>2021-11-22 Microblog</title>
       <link>https://www.nis.fyi/microblog.html#2021-11-22-002</link>
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-11-22-002</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
@@ -26,7 +26,7 @@
 </p>]]></content:encoded>
     </item>
     <item>
-      <title></title>
+      <title>2021-11-07 Microblog</title>
       <link>https://www.nis.fyi/microblog.html#2021-11-07-001</link>
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-11-07-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
@@ -36,7 +36,7 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title></title>
+      <title>2021-11-05 Microblog</title>
       <link>https://www.nis.fyi/microblog.html#2021-11-05-001</link>
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-11-05-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
@@ -49,7 +49,7 @@ I guess nobody is suggesting parallel construction as a solution, because that w
 ]]></content:encoded>
     </item>
     <item>
-      <title></title>
+      <title>2021-10-05 Microblog</title>
       <link>https://www.nis.fyi/microblog.html#2021-10-05-002</link>
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-10-05-002</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
@@ -59,7 +59,7 @@ I guess nobody is suggesting parallel construction as a solution, because that w
 </p>]]></content:encoded>
     </item>
     <item>
-      <title></title>
+      <title>2021-09-19 Microblog</title>
       <link>https://www.nis.fyi/microblog.html#2021-09-19-001</link>
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-19-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
@@ -69,7 +69,7 @@ I guess nobody is suggesting parallel construction as a solution, because that w
 </p>]]></content:encoded>
     </item>
     <item>
-      <title></title>
+      <title>2021-09-11 Microblog</title>
       <link>https://www.nis.fyi/microblog.html#2021-09-11-001</link>
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-11-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
@@ -80,7 +80,7 @@ I guess nobody is suggesting parallel construction as a solution, because that w
 ]]></content:encoded>
     </item>
     <item>
-      <title></title>
+      <title>2021-09-09 Microblog</title>
       <link>https://www.nis.fyi/microblog.html#2021-09-09-003</link>
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-09-003</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
@@ -90,7 +90,7 @@ I guess nobody is suggesting parallel construction as a solution, because that w
 </p>]]></content:encoded>
     </item>
     <item>
-      <title></title>
+      <title>2021-09-09 Microblog</title>
       <link>https://www.nis.fyi/microblog.html#2021-09-09-001</link>
       <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-09-09-001</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
