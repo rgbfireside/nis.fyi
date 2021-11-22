@@ -10,11 +10,21 @@
     <atom:link href="https://www.nis.fyi/microblog-feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Microblog]]></description>
     <link>https://www.nis.fyi/microblog.html</link>
-    <lastBuildDate>Mon, 22 Nov 2021 08:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 09:06:30 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title></title>
+      <link>https://www.nis.fyi/microblog.html#2021-11-22-002</link>
+      <guid isPermaLink="true">https://www.nis.fyi/microblog.html#2021-11-22-002</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 09:06:30 +0000</pubDate>
+      <description><![CDATA[I am double good.]]></description>
+      <content:encoded><![CDATA[<p>I am <a href="https://sinceriously.fyi/glossary/#double-good">double good</a>.
+</p>]]></content:encoded>
+    </item>
     <item>
       <title></title>
       <link>https://www.nis.fyi/microblog.html#2021-11-07-001</link>
