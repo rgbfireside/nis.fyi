@@ -10,7 +10,7 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Tue, 23 Nov 2021 04:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 04:19:11 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -87,14 +87,13 @@
       <guid isPermaLink="true">https://www.nis.fyi/drama/eliezer-yudkowsky.html</guid>
       <dc:creator><![CDATA[Nis]]></dc:creator>
       <pubDate>Mon, 22 Nov 2021 10:03:17 +0000</pubDate>
-      <description><![CDATA[Founder of MIRI and the &quot;rationality&quot; community.
+      <description><![CDATA[Single-good founder of MIRI and the &quot;rationality&quot; community.
  Blog: https://www.yudkowsky.net/
  Childhood Blog: [wayback] http://sysopmind.com
  Twitter: ESYudkowsky
- Tumblr: &quot;Optimize Literally Everything&quot;
- TODO:…]]></description>
+ Tumblr: &quot;Optimize Literally Everyth…]]></description>
       <content:encoded><![CDATA[<p>
-  Founder of MIRI and the <a href="https://sinceriously.fyi/net-negative">"rationality" community</a>.
+  <a href="https://sinceriously.fyi/glossary/#single-good">Single-good</a> founder of MIRI and the <a href="https://sinceriously.fyi/net-negative">"rationality" community</a>.
 </p>
 
 <ul>
@@ -106,7 +105,7 @@
 </ul>
 
 <p class="todo">
-  TODO: Lots more content that could go on this page. Not an endorsement.
+  TODO: Lots more content that could go on this page. Not an endorsement: Yudkowsky-as-in-the-<a href="https://sinceriously.fyi/infohazardous-glossary/#forced-fusion">forced-fusion</a>, his philosophy, his organization, and the community he founded are corrupt/omnicidal/hoping-to-build-hell-across-the-stars.
 </p>
 ]]></content:encoded>
     </item>
