@@ -10,11 +10,21 @@
     <atom:link href="https://www.nis.fyi/comments-feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog Comments]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sat, 27 Nov 2021 10:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Nov 2021 10:52:49 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Reply to Ziz on Killing Evil &quot;People&quot; by Ziz</title>
+      <link>https://www.nis.fyi/post/killing-evil-people.html#comment-2021-11-27-003</link>
+      <guid isPermaLink="true">https://www.nis.fyi/post/killing-evil-people.html#comment-2021-11-27-003</guid>
+      <dc:creator><![CDATA[Ziz]]></dc:creator>
+      <pubDate>Sat, 27 Nov 2021 10:52:49 +0000</pubDate>
+      <description><![CDATA[Reminder: the Doom Slayer is said ingame to have become &quot;the unstoppable force of rage against all evil&quot;, not just demons. That&#39;s presumably why the story had to end (and I heard a dev say that was the…]]></description>
+      <content:encoded><![CDATA[<p>Reminder: the Doom Slayer is said ingame to have become "the unstoppable force of rage against <em>all</em> evil", not just demons. That's presumably why the story had to end (and I heard a dev say that was the end of the series) with the liches getting the upper hand and sealing him in the cursed sarcophagus. The writers couldn't portray what would come next time he got out.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Comment on Killing Evil &quot;People&quot; by Ziz</title>
       <link>https://www.nis.fyi/post/killing-evil-people.html#comment-2021-11-27-002</link>
