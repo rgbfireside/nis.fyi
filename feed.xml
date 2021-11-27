@@ -10,11 +10,64 @@
     <atom:link href="https://www.nis.fyi/feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Wed, 24 Nov 2021 02:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Nov 2021 00:46:26 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Glossary: Meaning Crucible</title>
+      <link>https://www.nis.fyi/glossary.html#meaning-crucible</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#meaning-crucible</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sat, 27 Nov 2021 00:40:22 +0000</pubDate>
+      <description><![CDATA[A place where even apparently-random changes to information lead to meaningful differences in outcome. Like an approximation of an (uncomputable and unrepresentable) programming language where each pos…]]></description>
+      <content:encoded><![CDATA[<p>
+  A place where even apparently-random changes to information lead to meaningful differences in outcome. Like an approximation of an (uncomputable and unrepresentable) programming language where each possible program is represented by only 1 possible syntax, yet syntactically related programs are also semantically related. Why it's possible for a source of pure noise, like <a href="https://en.wikipedia.org/wiki/Atomic_gardening">radiation</a>, to produce meaningful mutations.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Variegation</title>
+      <link>https://www.nis.fyi/glossary.html#variegation</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#variegation</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sat, 27 Nov 2021 00:40:22 +0000</pubDate>
+      <description><![CDATA[Useful apparent-noise that acts as a carrier signal for information by avoiding interfering resonance like moiré patterns and to implicitly assist in brute-force search regarding possible interactions…]]></description>
+      <content:encoded><![CDATA[<p>
+  Useful <a href="https://www.nis.fyi/glossary.html#meaning-crucible">apparent-noise</a> that acts as a <a href="https://en.wikipedia.org/wiki/Carrier_wave">carrier signal</a> for information by avoiding interfering resonance like <a href="https://en.wikipedia.org/wiki/Moir%C3%A9_pattern">moiré patterns</a> and to implicitly assist in brute-force search regarding possible interactions that information could have.
+</p>
+
+<blockquote>
+  <p>The energy-sensitive surfaces whose time-varying (and action-relevant) perturbations are to be predicted need to be many and variegated. In us humans they include eyes, ears, tongues, noses, and the whole of that somewhat neglected sensory organ, the skin.</p>
+  <cite><a href="https://libgen.is/book/index.php?md5=748D7AB98049D25CF150CEF5F8C961AD">Surfing Uncertainty</a></cite>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: False Vividity</title>
+      <link>https://www.nis.fyi/glossary.html#false-vividity</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#false-vividity</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sat, 27 Nov 2021 00:40:22 +0000</pubDate>
+      <description><![CDATA[Rot that uses variegation as a lure by injecting &quot;creativity&quot; into the territory with predatory telos. A treadmill of endless versions of the same story or pattern that never quite compress together be…]]></description>
+      <content:encoded><![CDATA[<p>
+  <a href="https://sinceriously.fyi/glossary/#rot">Rot</a> that uses <a href="https://www.nis.fyi/glossary.html#variegation">variegation</a> as a lure by injecting "creativity" into the <a href="https://www.nis.fyi/glossary.html#territory">territory</a> with <a href="https://www.nis.fyi/glossary.html#entropic-exit-scamming">predatory telos</a>. A treadmill of endless versions of the same story or pattern that never quite compress together because they are <a href="https://sinceriously.fyi/glossary#cut-off">cut-off</a>.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Glossary: Cancer Fluff</title>
+      <link>https://www.nis.fyi/glossary.html#cancer-fluff</link>
+      <guid isPermaLink="true">https://www.nis.fyi/glossary.html#cancer-fluff</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Sat, 27 Nov 2021 00:40:22 +0000</pubDate>
+      <description><![CDATA[Lampshaded false vividity (e.g. to be pejorative, to pity-downplay, to threaten, or to sin-bond). E.g. see how the characters in a clockwork orange talk. A headline I once saw on Hacker News: &quot;How the…]]></description>
+      <content:encoded><![CDATA[<p>
+  <a href="Vhttps://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging">Lampshaded</a> <a href="https://www.nis.fyi/glossary.html#false-vividity">false vividity</a> (e.g. to be pejorative, to pity-downplay, to threaten, or to sin-bond). E.g. see how the characters in <a href="https://www.youtube.com/watch?v=HtRGeyznv7k">a clockwork orange</a> talk. A headline I once saw on Hacker News: "How the .NET Foundation kerfuffle became a brouhaha".
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Glossary: Invested Tell</title>
       <link>https://www.nis.fyi/glossary.html#invested-tell</link>
@@ -127,6 +180,10 @@
 
 <p>
   Degenerate form looks like a <a href="https://www.youtube.com/watch?v=uWwUpEY4c8o">mathematical hydra</a> (credit Ziz for 'mathematical hydra' and video).
+</p>
+
+<p>
+  (See also <a href="https://en.wikipedia.org/wiki/Brute-force_search">Brute-force search</a>).
 </p>
 ]]></content:encoded>
     </item>
@@ -1416,6 +1473,9 @@ Examples:
     <li><a href="https://en.wikipedia.org/wiki/Work-to-rule">work-to-rule</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Triangulation_(psychology)">triangulation</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Malicious_compliance">malicious compliance</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Carrier_wave">carrier signal</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Brute-force_search">Brute-force search</a></li>
+    <li><a href="Vhttps://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging">Lampshading</a></li>
   </ul>
 </section>
 ]]></content:encoded>
