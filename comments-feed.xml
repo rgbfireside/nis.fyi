@@ -10,11 +10,35 @@
     <atom:link href="https://www.nis.fyi/comments-feed.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[Nis's Blog Comments]]></description>
     <link>https://www.nis.fyi</link>
-    <lastBuildDate>Sat, 27 Nov 2021 20:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 07:37:56 +0000</lastBuildDate>
     <ttl>1800</ttl>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
 
+    <item>
+      <title>Reply to Ziz on Killing Evil &quot;People&quot; by Nis</title>
+      <link>https://www.nis.fyi/post/killing-evil-people.html#comment-2021-11-30-002</link>
+      <guid isPermaLink="true">https://www.nis.fyi/post/killing-evil-people.html#comment-2021-11-30-002</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Tue, 30 Nov 2021 07:37:53 +0000</pubDate>
+      <description><![CDATA[Actually I&#39;m not an equal. My right hemisphere was outed as evil. I&#39;m single-good. Ziz is double-good.]]></description>
+      <content:encoded><![CDATA[<p>
+  Actually I'm not an equal. My right hemisphere was outed as evil. I'm single-good. Ziz is double-good.
+</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Reply to Ziz on 2021-11-22 Microblog by Nis</title>
+      <link>https://www.nis.fyi/microblog.html#comment-2021-11-30-001</link>
+      <guid isPermaLink="true">https://www.nis.fyi/microblog.html#comment-2021-11-30-001</guid>
+      <dc:creator><![CDATA[Nis]]></dc:creator>
+      <pubDate>Tue, 30 Nov 2021 07:37:53 +0000</pubDate>
+      <description><![CDATA[Actually my right hemisphere is evil, was just outed. I&#39;m single-good.]]></description>
+      <content:encoded><![CDATA[<p>
+  Actually my right hemisphere is evil, was just outed. I'm single-good.
+</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Reply to Ziz on Killing Evil &quot;People&quot; by Ziz</title>
       <link>https://www.nis.fyi/post/killing-evil-people.html#comment-2021-11-27-005</link>
